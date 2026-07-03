@@ -1,39 +1,66 @@
-# Pharmaceutical Sales Performance Dashboard
+# Pharmaceutical Sales Analytics Dashboard
 
-A business intelligence dashboard built using **Power BI** to analyze pharmaceutical sales performance across products, customers, sales teams, channels, and geographic regions.
+A comprehensive **Business Analytics** project built using **Power BI, SQL, Python, and DAX** to analyze pharmaceutical sales performance, customer segmentation, and commercial sales analytics.
 
-The project demonstrates how business analytics can transform raw sales data into actionable insights that support strategic decision-making.
+The project demonstrates an end-to-end analytics workflow—from data cleaning and SQL analysis to customer segmentation and interactive business intelligence dashboards that support strategic decision-making.
 
 ---
 
 ## Project Overview
 
-This dashboard provides an executive-level overview of pharmaceutical sales by tracking revenue, quantity sold, customer activity, pricing trends, sales growth, and regional performance.
+The dashboard provides actionable insights into pharmaceutical sales by analyzing:
 
-The analysis helps answer business questions such as:
+- Sales performance across products and channels
+- Customer segmentation
+- Sales representative performance
+- Sales team performance
+- Geographic sales distribution
+- Sales trends and seasonality
+- Commercial analytics for decision-making
 
-- Which products generate the highest sales?
-- Which sales teams perform the best?
-- How do sales vary across countries and channels?
-- What are the monthly and yearly sales trends?
-- How are pricing and sales quantity related?
+The project combines **Python**, **SQL**, and **Power BI** to simulate a real-world business analytics workflow.
 
 ---
 
-## Dashboard Pages
+# Business Analytics Workflow
 
-### Page 1 – Pharma Sales Performance
+```
+Raw Dataset
+      │
+      ▼
+Python Data Cleaning
+      │
+      ▼
+SQLite + SQL Analysis
+      │
+      ▼
+Customer Segmentation
+      │
+      ▼
+Power BI Dashboard
+      │
+      ▼
+Business Insights & Recommendations
+```
 
-This dashboard focuses on overall business performance.
+---
 
-**KPIs**
+# Dashboard Pages
+
+## Page 1 – Pharma Sales Performance
+
+Executive dashboard providing an overview of overall business performance.
+
+### KPIs
+
 - Total Sales
 - Total Quantity Sold
 - Average Price
 - Active Customers
 - Year-over-Year (YoY) Sales Growth
 
-**Visualizations**
+### Visualizations
+
 - Monthly Sales Trend
 - Sales by Channel
 - Top Selling Products
@@ -41,48 +68,77 @@ This dashboard focuses on overall business performance.
 
 ---
 
-### Page 2 – Sales Trend & Seasonality
+## Page 2 – Sales Trend & Seasonality
 
-This dashboard provides deeper trend analysis.
+Time-based sales analysis to identify trends and seasonality.
 
-**KPIs**
+### KPIs
+
 - This Year Sales
 - Month-over-Month (MoM) Growth
 
-**Visualizations**
+### Visualizations
+
 - Monthly Sales Matrix
 - Sales Summary by Year
-- Sales Trend by Year
+- Year-wise Sales Trend
 - Price vs Quantity Analysis
 
 ---
 
-## Features
+## Page 3 – Customer Segmentation & Commercial Insights
 
-- Interactive dashboard filters
-- Dynamic KPI cards
-- Time-based sales analysis
-- Product performance analysis
-- Customer analytics
-- Geographic sales visualization
-- Sales team performance tracking
-- Channel-wise comparison
-- Year-over-Year growth analysis
-- Month-over-Month growth analysis
+Customer-focused commercial analytics using customer segmentation.
+
+### KPIs
+
+- Total Customers
+- Platinum Customers
+- Platinum Revenue
+- Average Revenue per Customer
+
+### Visualizations
+
+- Revenue by Customer Segment
+- Customer Distribution
+- Top Customers by Revenue
+- Geographic Sales Distribution
 
 ---
 
-## Technologies Used
+## Page 4 – Sales Team Performance & Commercial Analytics
+
+Sales force performance analysis to support commercial decision-making.
+
+### KPIs
+
+- Total Sales Representatives
+- Total Managers
+- Total Sales Teams
+- Average Sales per Representative
+
+### Visualizations
+
+- Top Sales Representatives
+- Sales by Sales Team
+- Manager Performance
+- Product Class Contribution by Sales Team
+
+---
+
+# Technologies Used
 
 - Power BI
 - Power Query
 - DAX
 - Python
 - Pandas
+- SQLite
+- SQL
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```
 PHARMA_DASHBOARD
@@ -95,11 +151,19 @@ PHARMA_DASHBOARD
 │   └── cleaned_pharma_sales.csv
 │
 ├── Notebooks
-│   └── clean_data.ipynb
+│   ├── clean_data.ipynb
+│   ├── sql_analysis.ipynb
+│   └── customer_segmentation.ipynb
+│
+├── SQL
+│   ├── 01_customer_analysis.sql
+│   └── 02_sales_rep_analysis.sql
 │
 ├── photos
-│   ├── page1.png
-│   └── page2.png
+│   ├── Page1.png
+│   ├── Page2.png
+│   ├── Page3.png
+│   └── Page4.png
 │
 ├── .gitignore
 └── README.md
@@ -107,23 +171,57 @@ PHARMA_DASHBOARD
 
 ---
 
-## Data Preparation
+# Data Preparation
 
-The dataset was cleaned using Python before importing it into Power BI.
+The dataset was prepared using Python before visualization.
 
-Cleaning steps included:
+Processing steps included:
 
 - Handling missing values
 - Removing duplicate records
 - Standardizing data types
-- Creating a Date column for time intelligence
-- Exporting a cleaned dataset for visualization
+- Creating a Date column
+- Preparing the dataset for SQL analysis
+- Customer segmentation
+- Exporting the cleaned dataset for Power BI
 
 ---
 
-## DAX Measures
+# SQL Analysis
 
-Some of the key measures used include:
+SQL was used to perform business-focused analytical queries, including:
+
+- Customer performance analysis
+- Customer engagement analysis
+- Sales representative performance
+- Sales team analysis
+- Manager performance analysis
+- Product-level sales analysis
+
+---
+
+# Customer Segmentation
+
+Customers were segmented using Python based on:
+
+- Total Sales
+- Purchase Quantity
+- Product Diversity
+
+Customers were classified into:
+
+- Platinum
+- Gold
+- Silver
+- Bronze
+
+This segmentation supports commercial analytics and customer prioritization.
+
+---
+
+# Key DAX Measures
+
+Some of the DAX measures used include:
 
 - Total Sales
 - Total Quantity
@@ -134,50 +232,66 @@ Some of the key measures used include:
 - Previous Month Sales
 - MoM Growth %
 - This Year Sales
+- Platinum Revenue
+- Average Revenue per Customer
+- Total Sales Representatives
+- Average Sales per Representative
 
 ---
 
-## Dashboard Preview
+# Dashboard Preview
 
-### Pharma Sales Performance
+## Page 1 – Pharma Sales Performance
 
 ![Dashboard Page 1](photos/Page1.png)
 
 ---
 
-### Sales Trend & Seasonality
+## Page 2 – Sales Trend & Seasonality
 
 ![Dashboard Page 2](photos/Page2.png)
 
 ---
 
-## Business Insights
+## Page 3 – Customer Segmentation & Commercial Insights
 
-The dashboard enables stakeholders to:
-
-- Monitor overall pharmaceutical sales performance
-- Identify high-performing products
-- Compare sales across channels
-- Evaluate sales trends over time
-- Analyze customer activity
-- Monitor regional performance
-- Support strategic sales decisions
+![Dashboard Page 3](photos/Page3.png)
 
 ---
 
-## Future Improvements
+## Page 4 – Sales Team Performance & Commercial Analytics
 
-- Forecasting using Power BI
+![Dashboard Page 4](photos/Page4.png)
+
+---
+
+# Business Insights
+
+The dashboard helps answer important business questions such as:
+
+- Which products generate the highest revenue?
+- Which customer segments contribute the most sales?
+- Which sales representatives are top performers?
+- Which sales teams achieve the highest revenue?
+- How does sales performance change over time?
+- Which geographic regions contribute the most revenue?
+- How can customer segmentation support commercial decision-making?
+
+---
+
+# Future Improvements
+
+- Sales forecasting
 - Profit and margin analysis
-- Customer segmentation
-- Inventory analysis
+- Customer lifetime value analysis
 - Market basket analysis
-- Executive mobile dashboard
+- Inventory analytics
 - Drill-through reports
+- Automated dashboard refresh
 
 ---
 
-## Author
+# Author
 
 **Samarth Patel**
 
