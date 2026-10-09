@@ -1,0 +1,752 @@
+Customer Name,Cluster,Segment,Recency,Frequency,Monetary,Product_Diversity,Total_Quantity,Average_Order_Value
+Abernathy Group,2,High Value At Risk,487,74,8383539.0,67,16389.0,113291.06756756757
+Abernathy Group Pharmaceutical Limited,1,Loyal Active,31,223,2079222.0,151,5490.0,9323.865470852017
+Abernathy Group Pharmacy,0,Low Engagement,487,70,1955038.0,57,5411.0,27929.114285714284
+Abernathy and Sons,0,Low Engagement,487,72,2232858.0,64,11102.0,31011.916666666668
+Abernathy and Sons Pharmaceutical Limited,0,Low Engagement,487,85,2392265.0,71,5880.0,28144.29411764706
+Armstrong Inc Pharm,0,Low Engagement,487,71,3363069.0,62,6973.0,47367.16901408451
+Armstrong Inc Pharma Plc,0,Low Engagement,487,89,2463546.0,70,7509.0,27680.29213483146
+"Armstrong, Medhurst and Bogisich Pharmaceutical Ltd",0,Low Engagement,487,70,2342618.0,62,4431.0,33465.97142857143
+"Armstrong, Medhurst and Bogisich Pharmacy",0,Low Engagement,487,66,2956914.0,54,5756.0,44801.72727272727
+Balistreri Group Pharm,0,Low Engagement,487,66,1651616.0,57,3841.0,25024.484848484848
+Balistreri Group Pharmaceutical Ltd,1,Loyal Active,31,206,4643931.0,137,9792.0,22543.35436893204
+Balistreri Group Pharmacy,0,Low Engagement,487,73,2011749.0,66,5417.0,27558.205479452055
+"Balistreri, Torp and Gulgowski",0,Low Engagement,487,84,3359081.0,67,8352.0,39989.05952380953
+"Balistreri, Torp and Gulgowski Pharmacy",1,Loyal Active,31,212,2792805.0,141,7493.0,13173.608490566037
+Balistreri-Watsica Pharma Plc,0,Low Engagement,487,74,2520463.0,61,5669.0,34060.31081081081
+Balistreri-Watsica Pharmacy,1,Loyal Active,31,239,6114088.0,147,14491.0,25581.958158995814
+Barrows Inc,1,Loyal Active,31,182,3190339.0,121,7374.0,17529.335164835164
+Barrows Inc Pharmaceutical Limited,0,Low Engagement,487,74,2870927.0,61,5308.0,38796.31081081081
+Barrows Inc Pharmacy,0,Low Engagement,518,64,4900737.0,56,10461.0,76574.015625
+"Barrows, Zboncak and Reichert Pharm",0,Low Engagement,487,72,2882706.0,64,7338.0,40037.583333333336
+"Barrows, Zboncak and Reichert Pharma Plc",0,Low Engagement,487,82,1796725.0,66,4099.0,21911.280487804877
+Barrows-Kohler Pharm,0,Low Engagement,487,84,2255901.0,67,6158.0,26855.964285714286
+Barrows-Kohler Pharma Plc,0,Low Engagement,487,71,2203691.0,58,6013.0,31037.901408450703
+Bartoletti-Altenwerth,1,Loyal Active,31,185,1993484.0,128,7188.0,10775.58918918919
+Bartoletti-Altenwerth Pharm,0,Low Engagement,487,62,3659240.0,52,9323.0,59020.0
+Barton Ltd Pharm,2,High Value At Risk,487,82,5995427.0,70,11588.0,73114.96341463414
+Barton Ltd Pharma Plc,1,Loyal Active,31,191,2789921.0,129,8064.0,14606.916230366493
+Barton Ltd Pharmaceutical Limited,0,Low Engagement,487,59,1165053.0,51,2918.0,19746.661016949154
+Bashirian Group,0,Low Engagement,487,75,1895837.0,64,4071.0,25277.826666666668
+Bashirian Group Pharmacy,0,Low Engagement,487,64,2855904.0,55,9654.0,44623.5
+Bashirian-Kassulke Pharma Plc,1,Loyal Active,31,214,1997481.0,139,9787.0,9334.023364485982
+Bashirian-Kassulke Pharmacy,0,Low Engagement,487,72,3797415.0,63,8516.0,52741.875
+Bayer LLC,0,Low Engagement,487,76,3849073.0,63,7931.0,50645.69736842105
+Bayer LLC Pharm,0,Low Engagement,487,75,2065153.0,66,5877.0,27535.373333333333
+Bayer LLC Pharmaceutical Ltd,1,Loyal Active,31,205,2324731.0,133,6534.0,11340.151219512196
+"Beahan, Littel and Ondricka",0,Low Engagement,487,54,1569472.0,50,5282.0,29064.296296296296
+"Beahan, Littel and Ondricka Pharma Plc",0,Low Engagement,487,55,1334333.0,48,4156.0,24260.6
+"Beahan, Littel and Ondricka Pharmacy",1,Loyal Active,31,199,2399758.0,128,5744.0,12059.085427135678
+"Beer, Kohler and Beatty",2,High Value At Risk,487,65,3612752.0,53,17717.0,55580.8
+"Beer, Kohler and Beatty Pharmaceutical Ltd",1,Loyal Active,31,216,2959937.0,147,6819.0,13703.412037037036
+"Beer, Kohler and Beatty Pharmacy",0,Low Engagement,487,63,1774147.0,57,5053.0,28161.06349206349
+Beier PLC,0,Low Engagement,487,67,2543751.0,59,7682.0,37966.432835820895
+Beier PLC Pharm,0,Low Engagement,487,74,3762993.0,66,9568.0,50851.25675675676
+Beier PLC Pharma Plc,0,Low Engagement,487,69,2976194.0,60,7293.0,43133.24637681159
+Beier PLC Pharmacy,1,Loyal Active,31,202,3264824.0,143,9417.0,16162.49504950495
+"Bernier, Murphy and Rau Pharma Plc",0,Low Engagement,487,78,1903171.0,66,6531.0,24399.628205128207
+"Bernier, Murphy and Rau Pharmaceutical Limited",0,Low Engagement,487,67,3239612.0,57,10242.0,48352.41791044776
+"Bernier, Murphy and Rau Pharmaceutical Ltd",1,Loyal Active,31,164,4338922.0,112,9289.0,26456.841463414636
+"Blanda, Stehr and Gleason Pharma Plc",0,Low Engagement,487,86,2761568.0,78,6222.0,32111.25581395349
+"Blanda, Stehr and Gleason Pharmaceutical Ltd",0,Low Engagement,518,69,2784914.0,56,7261.0,40361.07246376811
+"Blick, Pacocha and Schowalter",1,Loyal Active,31,225,4866124.0,141,15111.0,21627.217777777776
+"Blick, Pacocha and Schowalter Pharmaceutical Limited",0,Low Engagement,487,97,3343909.0,82,10792.0,34473.28865979381
+"Blick, Pacocha and Schowalter Pharmacy",0,Low Engagement,487,66,1640210.0,61,5341.0,24851.666666666668
+"Block, Thiel and Kuphal Pharm",0,Low Engagement,487,60,1682555.0,55,4710.0,28042.583333333332
+"Block, Thiel and Kuphal Pharmaceutical Limited",0,Low Engagement,487,62,1185195.0,54,3143.0,19116.048387096773
+Block-Romaguera,0,Low Engagement,487,64,1600784.0,58,4319.0,25012.25
+Block-Romaguera Pharmaceutical Limited,1,Loyal Active,31,217,3611190.0,140,8570.0,16641.428571428572
+Block-Romaguera Pharmacy,0,Low Engagement,487,74,2314555.0,64,9534.0,31277.77027027027
+"Bogan, Jacobs and Kris Pharmaceutical Limited",0,Low Engagement,487,74,3930706.0,65,7699.0,53117.64864864865
+"Bogan, Jacobs and Kris Pharmaceutical Ltd",0,Low Engagement,487,85,3649106.0,71,12059.0,42930.65882352941
+"Bogan, Jacobs and Kris Pharmacy",1,Loyal Active,31,207,2456080.0,138,5906.0,11865.12077294686
+Bosco-Marquardt Pharm,1,Loyal Active,31,196,3124277.0,126,8138.0,15940.188775510203
+Bosco-Marquardt Pharmaceutical Limited,0,Low Engagement,487,59,3653016.0,51,7528.0,61915.52542372881
+Bosco-Marquardt Pharmaceutical Ltd,2,High Value At Risk,487,62,5380201.0,56,11461.0,86777.43548387097
+Botsford PLC,0,Low Engagement,487,79,1706097.0,72,5786.0,21596.164556962027
+Botsford PLC Pharmacy,1,Loyal Active,31,188,3338687.0,126,6975.0,17758.97340425532
+Botsford and Sons,0,Low Engagement,487,67,3970164.0,58,12208.0,59256.17910447761
+Botsford and Sons Pharma Plc,0,Low Engagement,487,73,2989262.0,65,6471.0,40948.79452054795
+Botsford and Sons Pharmaceutical Ltd,1,Loyal Active,31,206,4444486.0,130,9875.0,21575.174757281555
+Boyer and Sons,0,Low Engagement,487,91,2979938.0,74,6072.0,32746.571428571428
+Boyer and Sons Pharmaceutical Limited,1,Loyal Active,31,229,6574331.0,148,14987.0,28708.868995633187
+Boyer and Sons Pharmaceutical Ltd,0,Low Engagement,487,83,3727314.0,68,8355.0,44907.39759036145
+"Brakus, Rempel and Harber Pharm",0,Low Engagement,487,84,2275238.0,71,5540.0,27086.166666666668
+"Brakus, Rempel and Harber Pharma Plc",1,Loyal Active,31,175,1780951.0,121,5240.0,10176.862857142858
+"Brakus, Rempel and Harber Pharmacy",0,Low Engagement,487,84,2289735.0,72,6449.0,27258.75
+Breitenberg-Kuhn,2,High Value At Risk,487,74,3361471.0,64,18665.0,45425.28378378379
+Breitenberg-Kuhn Pharma Plc,0,Low Engagement,487,69,3831178.0,60,8472.0,55524.31884057971
+Breitenberg-Kuhn Pharmacy,1,Loyal Active,31,208,3648594.0,134,8987.0,17541.31730769231
+Buckridge Inc Pharm,0,Low Engagement,487,60,3853046.0,56,8182.0,64217.433333333334
+Buckridge Inc Pharmaceutical Limited,2,High Value At Risk,487,75,5234139.0,68,11538.0,69788.52
+"Buckridge, Dach and Carroll",0,Low Engagement,487,66,1008705.0,56,3531.0,15283.40909090909
+"Buckridge, Dach and Carroll Pharmaceutical Limited",1,Loyal Active,31,195,2606825.0,127,7956.0,13368.333333333334
+"Buckridge, Dach and Carroll Pharmaceutical Ltd",0,Low Engagement,487,78,3745760.0,71,7704.0,48022.5641025641
+"Buckridge, Hand and Hyatt",0,Low Engagement,487,62,1555060.0,58,4143.0,25081.612903225807
+"Buckridge, Hand and Hyatt Pharma Plc",1,Loyal Active,31,210,4539521.0,139,12462.0,21616.766666666666
+"Buckridge, Hand and Hyatt Pharmaceutical Ltd",0,Low Engagement,487,74,3214895.0,64,5527.0,43444.52702702703
+Buckridge-Davis,1,Loyal Active,31,197,2894720.0,136,6257.0,14694.010152284263
+Buckridge-Davis Pharmaceutical Limited,0,Low Engagement,487,73,2926367.0,61,8284.0,40087.21917808219
+Buckridge-Davis Pharmaceutical Ltd,0,Low Engagement,487,80,1655171.0,68,4033.0,20689.6375
+Buckridge-Strosin Pharma Plc,0,Low Engagement,487,76,3031985.0,67,7314.0,39894.53947368421
+Buckridge-Strosin Pharmaceutical Limited,1,Loyal Active,31,184,2717132.0,117,6738.0,14767.021739130434
+Buckridge-Strosin Pharmaceutical Ltd,2,High Value At Risk,487,78,6399949.0,69,12327.0,82050.6282051282
+Carter-Conn Pharm,0,Low Engagement,487,78,4447860.0,66,11657.0,57023.846153846156
+Carter-Conn Pharma Plc,1,Loyal Active,31,222,6825490.0,150,12748.0,30745.45045045045
+Carter-Conn Pharmaceutical Ltd,0,Low Engagement,487,68,4055830.0,60,10963.0,59644.55882352941
+Cartwright-Fay,0,Low Engagement,487,88,3013196.0,68,8924.0,34240.86363636364
+Cartwright-Fay Pharmaceutical Ltd,0,Low Engagement,487,62,4062543.0,52,9573.0,65524.8870967742
+"Casper, Hyatt and Jakubowski Pharmaceutical Limited",1,Loyal Active,31,203,2748326.0,138,8683.0,13538.551724137931
+"Casper, Hyatt and Jakubowski Pharmaceutical Ltd",2,High Value At Risk,487,83,8146572.0,66,14048.0,98151.46987951807
+"Casper, Hyatt and Jakubowski Pharmacy",0,Low Engagement,487,66,3988982.0,59,9311.0,60439.121212121216
+Cassin PLC Pharma Plc,2,High Value At Risk,487,89,11166348.0,76,23129.0,125464.58426966293
+Cassin PLC Pharmaceutical Limited,0,Low Engagement,487,72,2854770.0,61,6768.0,39649.583333333336
+Cassin PLC Pharmacy,1,Loyal Active,31,218,3055438.0,151,7028.0,14015.770642201835
+Collins-Schmidt Pharma Plc,0,Low Engagement,487,65,1682763.0,61,6468.0,25888.66153846154
+Collins-Schmidt Pharmaceutical Limited,0,Low Engagement,487,67,1880908.0,57,4712.0,28073.253731343284
+"Corkery, Trantow and Ferry Pharm",0,Low Engagement,487,79,3749922.0,63,8605.0,47467.36708860759
+"Corkery, Trantow and Ferry Pharma Plc",0,Low Engagement,487,84,2554910.0,70,7540.0,30415.595238095237
+Corkery-Kovacek Pharm,0,Low Engagement,487,78,3817144.0,68,11876.0,48937.743589743586
+Corkery-Kovacek Pharma Plc,0,Low Engagement,487,62,2204960.0,60,5154.0,35563.87096774193
+"Cormier, Dietrich and Zulauf Pharma Plc",1,Loyal Active,31,184,4507086.0,126,9548.0,24495.032608695652
+"Cormier, Dietrich and Zulauf Pharmaceutical Limited",0,Low Engagement,487,76,1859478.0,70,4869.0,24466.815789473683
+"Cormier, Dietrich and Zulauf Pharmacy",0,Low Engagement,487,86,4314705.0,75,7722.0,50170.98837209302
+Cremin-Zemlak Pharma Plc,2,High Value At Risk,487,72,5398656.0,61,11965.0,74981.33333333333
+Cremin-Zemlak Pharmaceutical Limited,0,Low Engagement,487,64,1455086.0,57,4071.0,22735.71875
+Crist Inc,1,Loyal Active,31,217,5137959.0,143,11799.0,23677.230414746544
+Crist Inc Pharma Plc,0,Low Engagement,487,74,3519529.0,62,8068.0,47561.2027027027
+Crist Inc Pharmaceutical Ltd,0,Low Engagement,487,82,2033186.0,68,6521.0,24794.951219512193
+Crist LLC,0,Low Engagement,487,72,3243709.0,65,7280.0,45051.51388888889
+Crist LLC Pharma Plc,0,Low Engagement,487,52,1844666.0,49,5666.0,35474.346153846156
+Crist Ltd Pharma Plc,0,Low Engagement,487,73,2553040.0,63,5501.0,34973.150684931505
+"Crist, Wisoky and Nolan Pharm",2,High Value At Risk,487,73,7084195.0,59,15938.0,97043.76712328767
+"Crist, Wisoky and Nolan Pharmaceutical Limited",0,Low Engagement,487,71,2968681.0,62,6840.0,41812.40845070423
+"Crist, Wisoky and Nolan Pharmaceutical Ltd",1,Loyal Active,31,222,4637033.0,146,14670.0,20887.536036036036
+Crona Group,0,Low Engagement,487,65,2842272.0,55,6671.0,43727.26153846154
+Crona Group Pharma Plc,1,Loyal Active,31,206,3129089.0,139,9243.0,15189.752427184467
+Crona PLC Pharma Plc,1,Loyal Active,31,210,2047523.0,146,5998.0,9750.109523809524
+Crona PLC Pharmaceutical Ltd,0,Low Engagement,487,83,4167660.0,73,12443.0,50212.77108433735
+Crona PLC Pharmacy,0,Low Engagement,487,78,2059068.0,71,3478.0,26398.30769230769
+Cummings LLC,0,Low Engagement,487,51,3098338.0,45,6102.0,60751.72549019608
+Cummings LLC Pharmaceutical Ltd,0,Low Engagement,487,65,2337447.0,60,5154.0,35960.723076923074
+D'Amore and Sons,1,Loyal Active,31,209,2652079.0,133,7064.0,12689.373205741627
+D'Amore and Sons Pharm,0,Low Engagement,487,82,3862644.0,75,7603.0,47105.41463414634
+D'Amore and Sons Pharmacy,0,Low Engagement,487,88,3914129.0,75,13515.0,44478.73863636364
+Dach Ltd Pharm,0,Low Engagement,487,78,5195866.0,67,10210.0,66613.66666666667
+Dach Ltd Pharma Plc,2,High Value At Risk,487,83,5295609.0,71,11829.0,63802.51807228916
+Dach PLC,0,Low Engagement,487,75,3167387.0,63,5889.0,42231.82666666667
+Dach PLC Pharm,0,Low Engagement,487,77,3979370.0,71,10190.0,51680.12987012987
+"Daniel, Baumbach and Nitzsche",2,High Value At Risk,487,86,9274343.0,74,22241.0,107841.19767441861
+"Daniel, Baumbach and Nitzsche Pharmacy",0,Low Engagement,487,87,2200925.5089,75,5053.5512759,25297.99435517241
+Daugherty-Rempel Pharm,0,Low Engagement,487,83,3775818.0,72,9363.0,45491.78313253012
+Daugherty-Rempel Pharma Plc,1,Loyal Active,31,191,4546602.0,131,13251.0,23804.198952879582
+Daugherty-Rempel Pharmaceutical Limited,0,Low Engagement,487,89,3925256.0,77,12270.0,44104.0
+"Denesik, Walter and Beatty",0,Low Engagement,487,75,2483566.0,62,6815.0,33114.21333333333
+"Denesik, Walter and Beatty Pharma Plc",1,Loyal Active,31,210,3484514.0,136,8513.0,16592.92380952381
+"Denesik, Walter and Beatty Pharmacy",0,Low Engagement,487,82,2736401.0,69,5786.0,33370.743902439026
+Denesik-Hintz Pharm,1,Loyal Active,31,222,2392035.0,147,6656.0,10774.932432432432
+Denesik-Hintz Pharma Plc,0,Low Engagement,487,56,2623033.0,52,4680.0,46839.875
+Denesik-Hintz Pharmaceutical Limited,0,Low Engagement,487,59,1790076.0,54,6383.0,30340.271186440677
+Doyle-Tillman Pharm,0,Low Engagement,487,55,4067423.0,49,7478.0,73953.14545454546
+Doyle-Tillman Pharmaceutical Limited,0,Low Engagement,487,74,2571455.0,65,6982.0,34749.39189189189
+Doyle-Tillman Pharmaceutical Ltd,1,Loyal Active,31,219,7158142.0,143,18709.0,32685.579908675798
+Durgan-Rice Pharmaceutical Ltd,0,Low Engagement,487,78,2602311.0,65,6343.0,33362.96153846154
+Durgan-Rice Pharmacy,2,High Value At Risk,487,71,5884649.0,64,10978.0,82882.38028169014
+"Effertz, Heaney and Tillman Pharm",0,Low Engagement,487,60,1466280.0,50,5383.0,24438.0
+"Effertz, Heaney and Tillman Pharma Plc",2,High Value At Risk,487,90,5162807.0,72,14079.0,57364.52222222222
+"Effertz, Heaney and Tillman Pharmaceutical Ltd",1,Loyal Active,31,218,3432986.0,136,8130.0,15747.642201834862
+Emard-O'Connell Pharm,0,Low Engagement,487,71,3124282.0,62,7626.0,44003.971830985916
+Emard-O'Connell Pharmaceutical Ltd,0,Low Engagement,487,78,4743201.0,68,10007.0,60810.269230769234
+Emard-O'Connell Pharmacy,1,Loyal Active,31,196,3676546.0,130,8508.0,18757.88775510204
+Erdman PLC,0,Low Engagement,487,64,1865227.0,57,3916.0,29144.171875
+Erdman PLC Pharma Plc,0,Low Engagement,487,79,3796292.0,67,8055.0,48054.329113924054
+Erdman PLC Pharmacy,1,Loyal Active,31,198,3183228.0,137,9489.0,16076.90909090909
+"Erdman, Senger and Oberbrunner Pharm",1,Loyal Active,31,204,4230846.0,141,8439.0,20739.441176470587
+"Erdman, Senger and Oberbrunner Pharmaceutical Ltd",0,Low Engagement,487,69,2280994.0,56,5496.0,33057.884057971016
+"Erdman, Senger and Oberbrunner Pharmacy",0,Low Engagement,487,78,2228954.0,71,6024.0,28576.333333333332
+Fadel-West,1,Loyal Active,31,172,3189603.0,124,6907.0,18544.20348837209
+Fadel-West Pharmaceutical Ltd,0,Low Engagement,487,66,3107443.0,54,7489.0,47082.469696969696
+Fadel-West Pharmacy,0,Low Engagement,487,64,2099373.0,56,6625.0,32802.703125
+Fahey-Flatley,0,Low Engagement,487,62,2504339.0,54,5479.0,40392.56451612903
+Fahey-Flatley Pharmaceutical Ltd,0,Low Engagement,487,67,2014869.0,59,4201.0,30072.671641791047
+Fahey-Prosacco Pharmaceutical Limited,0,Low Engagement,487,70,4384050.0,60,10694.0,62629.28571428572
+Fahey-Prosacco Pharmacy,0,Low Engagement,487,72,2483381.0,61,6987.0,34491.40277777778
+Feest PLC,1,Loyal Active,31,183,2021466.0,126,5726.0,11046.262295081968
+Feest PLC Pharmaceutical Limited,0,Low Engagement,487,61,1842501.0,52,2693.0,30204.93442622951
+Feest PLC Pharmaceutical Ltd,0,Low Engagement,487,69,2564436.0,62,7373.0,37165.739130434784
+Feest-Kshlerin,0,Low Engagement,487,66,2279781.0,60,5490.0,34542.13636363636
+Feest-Kshlerin Pharma Plc,0,Low Engagement,487,60,936253.0,51,2372.0,15604.216666666667
+Feest-Kshlerin Pharmaceutical Ltd,1,Loyal Active,31,205,5283949.0,146,10156.0,25775.360975609758
+Feest-Roob Pharmaceutical Limited,0,Low Engagement,487,67,1355264.0,56,3180.0,20227.82089552239
+Feest-Roob Pharmaceutical Ltd,1,Loyal Active,31,196,2705799.0,130,7137.0,13805.09693877551
+Feest-Roob Pharmacy,0,Low Engagement,487,69,2186756.0,62,5330.0,31692.115942028984
+Franecki Inc Pharma Plc,0,Low Engagement,487,72,2901429.0,56,5957.0,40297.625
+Franecki Inc Pharmacy,0,Low Engagement,487,82,3264829.0,70,6937.0,39814.98780487805
+Friesen Group,0,Low Engagement,487,60,1848867.0,55,6261.0,30814.45
+Friesen Group Pharm,0,Low Engagement,487,68,2299922.0,58,6269.0,33822.382352941175
+Fritsch LLC Pharm,0,Low Engagement,487,71,1965612.0,57,5231.0,27684.676056338027
+Fritsch LLC Pharmaceutical Ltd,0,Low Engagement,487,78,3048372.0,72,6354.0,39081.692307692305
+"Fritsch, Hodkiewicz and Sipes Pharma Plc",0,Low Engagement,487,92,3258371.0,79,6963.0,35417.07608695652
+"Fritsch, Hodkiewicz and Sipes Pharmacy",0,Low Engagement,518,58,3994471.0,53,9014.0,68870.18965517242
+Fritsch-Hauck Pharm,0,Low Engagement,518,69,2789371.0,62,6116.0,40425.666666666664
+Fritsch-Hauck Pharma Plc,1,Loyal Active,31,207,2973355.0,143,7393.0,14364.03381642512
+Fritsch-Hauck Pharmaceutical Ltd,0,Low Engagement,487,71,1917658.0,63,4118.0,27009.267605633802
+Funk PLC Pharm,0,Low Engagement,487,71,1463060.0,62,3874.0,20606.478873239437
+Funk PLC Pharma Plc,0,Low Engagement,487,89,3290305.0,73,6714.0,36969.7191011236
+Funk PLC Pharmaceutical Limited,1,Loyal Active,31,214,4191722.0,148,9411.0,19587.48598130841
+Funk and Sons Pharm,0,Low Engagement,487,86,2128839.0,75,5350.0,24753.941860465115
+Funk and Sons Pharmaceutical Limited,1,Loyal Active,31,204,3182287.0,140,7574.0,15599.446078431372
+Funk and Sons Pharmacy,2,High Value At Risk,487,77,7382600.0,70,14656.0,95877.92207792208
+"Funk, Ratke and Heaney",2,High Value At Risk,487,87,7131192.0,75,15326.0,81967.72413793103
+"Funk, Ratke and Heaney Pharma Plc",0,Low Engagement,487,76,3582603.0,62,9558.0,47139.51315789474
+"Funk, Ratke and Heaney Pharmacy",1,Loyal Active,31,206,3897042.0,142,9133.0,18917.679611650485
+"Gerhold, Mills and Effertz",0,Low Engagement,487,55,1386782.0,51,4592.0,25214.21818181818
+"Gerhold, Mills and Effertz Pharm",1,Loyal Active,31,186,3138581.0,135,7233.0,16874.09139784946
+"Gerhold, Mills and Effertz Pharma Plc",0,Low Engagement,487,76,1915101.0,68,4537.0,25198.697368421053
+Gerlach LLC,1,Loyal Active,31,220,3319091.0,147,7289.0,15086.777272727273
+Gerlach LLC Pharma Plc,0,Low Engagement,487,87,4797261.0,73,11538.0,55140.93103448276
+Gerlach LLC Pharmacy,0,Low Engagement,487,74,1472502.0,65,3423.0,19898.675675675677
+Gerlach PLC Pharmaceutical Ltd,0,Low Engagement,487,65,1937107.0,52,4128.0,29801.646153846155
+Gibson-Hill,0,Low Engagement,487,67,2873324.0,61,6657.0,42885.432835820895
+Gibson-Hill Pharma Plc,1,Loyal Active,31,227,3867089.0,145,9160.0,17035.63436123348
+Gibson-Hill Pharmaceutical Limited,0,Low Engagement,487,67,2336074.0,57,8705.0,34866.77611940299
+Gleason PLC Pharma Plc,0,Low Engagement,487,79,4059924.0,70,11179.0,51391.443037974685
+Gleason PLC Pharmaceutical Limited,0,Low Engagement,487,71,1680236.0,65,4155.0,23665.295774647886
+"Gleichner, Bahringer and Morar Pharma Plc",1,Loyal Active,31,217,3312361.0,144,9552.0,15264.336405529953
+"Gleichner, Bahringer and Morar Pharmaceutical Limited",0,Low Engagement,487,61,2550103.0,54,6905.0,41804.96721311475
+"Gleichner, Bahringer and Morar Pharmacy",0,Low Engagement,487,79,3740003.0,62,13667.0,47341.81012658228
+Goldner-Tillman Pharm,0,Low Engagement,487,72,1413467.0,59,3687.0,19631.48611111111
+Goldner-Tillman Pharmacy,2,High Value At Risk,487,80,11592607.0,62,22359.0,144907.5875
+Gottlieb-Cruickshank Pharm,0,Low Engagement,487,67,3728198.0,57,12897.0,55644.746268656716
+Gottlieb-Cruickshank Pharma Plc,1,Loyal Active,31,213,2848546.0,142,7423.0,13373.455399061033
+Gottlieb-Koss Pharm,0,Low Engagement,487,72,2542063.0,62,9156.0,35306.430555555555
+Gottlieb-Koss Pharmacy,0,Low Engagement,487,65,3108275.0,55,8197.0,47819.61538461538
+Graham and Sons Pharm,0,Low Engagement,487,81,3006930.0,69,6854.0,37122.59259259259
+Graham and Sons Pharma Plc,0,Low Engagement,487,74,3546364.0,60,9643.0,47923.83783783784
+Graham and Sons Pharmacy,1,Loyal Active,31,201,2682005.0,141,6142.0,13343.308457711442
+"Greenholt, Donnelly and O'Reilly Pharmaceutical Limited",1,Loyal Active,31,211,2195889.0,134,5948.0,10407.056872037914
+"Greenholt, Donnelly and O'Reilly Pharmaceutical Ltd",0,Low Engagement,487,77,2148024.0,65,5936.0,27896.415584415583
+"Grimes, Jacobs and Durgan Pharm",1,Loyal Active,31,190,2243375.0,119,5289.0,11807.236842105263
+"Grimes, Jacobs and Durgan Pharma Plc",2,High Value At Risk,487,66,7046569.0,59,11355.0,106766.19696969698
+Gulgowski-Vandervort Pharm,0,Low Engagement,487,71,2580792.0,67,7144.0,36349.18309859155
+Gulgowski-Vandervort Pharma Plc,2,High Value At Risk,487,94,7015191.0,73,13995.0,74629.6914893617
+"Haag, Bradtke and Terry",0,Low Engagement,487,78,3055127.0,71,6261.0,39168.294871794875
+"Haag, Bradtke and Terry Pharm",0,Low Engagement,487,67,1102847.0,59,4696.0,16460.402985074626
+"Haag, Bradtke and Terry Pharmacy",1,Loyal Active,31,200,2105639.0,131,5770.0,10528.195
+"Hahn, Rutherford and Gislason Pharm",0,Low Engagement,487,82,2801915.0,70,5334.0,34169.69512195122
+"Hahn, Rutherford and Gislason Pharmaceutical Limited",1,Loyal Active,31,200,2348617.0,131,6686.0,11743.085
+"Hahn, Rutherford and Gislason Pharmacy",0,Low Engagement,487,69,2479061.0,59,7324.0,35928.42028985507
+Haley PLC Pharmaceutical Limited,1,Loyal Active,31,188,3083122.0,137,6776.0,16399.58510638298
+Haley PLC Pharmacy,0,Low Engagement,487,77,3048174.0,68,12085.0,39586.67532467532
+"Hammes, Bashirian and Pacocha",0,Low Engagement,487,71,2761660.0,59,5931.0,38896.619718309856
+"Hammes, Bashirian and Pacocha Pharmacy",0,Low Engagement,487,66,1399890.0,60,9562.0,21210.454545454544
+Hane Ltd,0,Low Engagement,487,73,2078320.0,63,7509.0,28470.13698630137
+Hane Ltd Pharmaceutical Ltd,0,Low Engagement,487,68,1549634.0,61,4259.0,22788.735294117647
+Hansen Group Pharm,1,Loyal Active,31,211,3631981.0,139,8228.0,17213.18009478673
+Hansen Group Pharmacy,2,High Value At Risk,487,83,4778915.0,68,26655.0,57577.2891566265
+"Hansen, Fadel and Schroeder Pharm",1,Loyal Active,31,210,2225392.0,136,5398.0,10597.104761904762
+"Hansen, Fadel and Schroeder Pharma Plc",0,Low Engagement,487,66,3495142.0,57,6635.0,52956.69696969697
+"Hansen, Fadel and Schroeder Pharmaceutical Ltd",0,Low Engagement,487,97,3870677.0,82,9487.0,39903.886597938144
+"Harris, Daugherty and Okuneva Pharm",0,Low Engagement,487,80,2585228.0,65,5999.0,32315.35
+"Harris, Daugherty and Okuneva Pharma Plc",1,Loyal Active,31,197,1948473.0,137,5748.0,9890.725888324872
+"Harris, Daugherty and Okuneva Pharmaceutical Limited",0,Low Engagement,487,74,2108509.0,63,8051.0,28493.364864864863
+Harris-Conroy Pharm,2,High Value At Risk,487,81,8173854.0,72,18651.0,100911.77777777778
+Harris-Conroy Pharmacy,0,Low Engagement,487,84,2432308.0,74,6720.0,28956.04761904762
+Hartmann-Wolf,1,Loyal Active,31,192,2101036.0,134,5237.0,10942.895833333334
+Hartmann-Wolf Pharmaceutical Limited,0,Low Engagement,487,78,2989769.0,64,6087.0,38330.3717948718
+Hartmann-Wolf Pharmacy,0,Low Engagement,487,68,2357096.0,57,5276.0,34663.17647058824
+Hayes-Kilback Pharma Plc,0,Low Engagement,487,73,2817398.0,62,6080.0,38594.49315068493
+Hayes-Kilback Pharmaceutical Limited,0,Low Engagement,487,78,2926648.0,66,7320.0,37521.1282051282
+Hayes-Kilback Pharmaceutical Ltd,1,Loyal Active,31,217,3964929.0,143,9378.0,18271.562211981567
+"Heathcote, Grant and Witting Pharm",1,Loyal Active,31,221,3030441.0,138,6530.0,13712.402714932126
+"Heathcote, Grant and Witting Pharmaceutical Limited",0,Low Engagement,487,74,4973334.0,66,9371.0,67207.21621621621
+"Heathcote, Grant and Witting Pharmacy",0,Low Engagement,487,61,2048691.0,55,4451.0,33585.098360655735
+"Heathcote, Kovacek and Parker",0,Low Engagement,487,83,3758232.0,74,7913.0,45279.903614457835
+Heidenreich Group Pharm,0,Low Engagement,487,71,2676163.0,61,7313.0,37692.43661971831
+Heidenreich Group Pharmaceutical Ltd,1,Loyal Active,31,209,3849892.0,132,9134.0,18420.535885167465
+Heidenreich Group Pharmacy,2,High Value At Risk,518,84,6407478.0,66,13957.0,76279.5
+Heller-Abernathy,1,Loyal Active,31,210,4394462.0,138,10130.0,20926.009523809524
+Heller-Abernathy Pharma Plc,0,Low Engagement,487,62,2321467.0,51,4547.0,37443.01612903226
+Heller-Abernathy Pharmaceutical Limited,0,Low Engagement,487,79,1665840.0,65,3755.0,21086.58227848101
+"Herman, Rice and Rippin",1,Loyal Active,31,206,2270513.0,148,6010.0,11021.90776699029
+"Herman, Rice and Rippin Pharm",0,Low Engagement,487,85,3267590.0,74,6414.0,38442.23529411765
+"Herman, Rice and Rippin Pharmaceutical Limited",2,High Value At Risk,487,66,4986333.0,55,18323.0,75550.5
+Herman-Koss Pharm,1,Loyal Active,31,201,3426586.0,130,9988.0,17047.691542288558
+Herman-Koss Pharmaceutical Limited,0,Low Engagement,487,72,3738447.0,63,8039.0,51922.875
+Herman-Koss Pharmaceutical Ltd,2,High Value At Risk,487,84,7744016.0,72,12185.0,92190.66666666667
+Hermiston LLC,1,Loyal Active,31,214,3507057.0,149,7171.0,16388.116822429907
+Hermiston LLC Pharm,0,Low Engagement,487,64,3117021.0,55,11212.0,48703.453125
+Hermiston LLC Pharmaceutical Limited,0,Low Engagement,487,76,4110714.0,63,9867.0,54088.34210526316
+Hermiston LLC Pharmaceutical Ltd,0,Low Engagement,487,56,2048171.0,49,4310.0,36574.482142857145
+Hermiston and Sons Pharma Plc,1,Loyal Active,31,219,2715991.0,150,6999.0,12401.785388127853
+Hermiston and Sons Pharmaceutical Ltd,0,Low Engagement,487,83,2160890.0,72,5403.0,26034.819277108432
+Hermiston and Sons Pharmacy,0,Low Engagement,487,74,2894411.0,65,7566.0,39113.66216216216
+Hill Ltd,1,Loyal Active,31,213,3483214.0,140,10037.0,16353.11737089202
+Hill Ltd Pharma Plc,0,Low Engagement,487,57,1694345.0,48,3735.0,29725.35087719298
+Hill Ltd Pharmaceutical Limited,0,Low Engagement,487,79,4113553.0,67,8193.0,52070.29113924051
+Hill-Daniel,0,Low Engagement,487,69,3176505.0,58,8535.0,46036.30434782609
+Hill-Daniel Pharmaceutical Ltd,2,High Value At Risk,487,81,7767750.0,63,16978.0,95898.14814814815
+"Hills, Stroman and Ernser",0,Low Engagement,487,60,1166718.0,55,3505.0,19445.3
+"Hills, Stroman and Ernser Pharm",1,Loyal Active,31,197,2448488.0,130,6239.0,12428.873096446701
+"Hills, Stroman and Ernser Pharmaceutical Ltd",0,Low Engagement,487,64,2538189.0,55,5037.0,39659.203125
+"Hirthe, Williamson and Macejkovic",0,Low Engagement,487,71,1982779.0,61,5365.0,27926.464788732395
+"Hirthe, Williamson and Macejkovic Pharma Plc",1,Loyal Active,31,206,2735314.0,141,9675.0,13278.223300970874
+"Hirthe, Williamson and Macejkovic Pharmacy",0,Low Engagement,487,89,3045568.0,71,8159.0,34219.86516853933
+Hoeger Ltd,0,Low Engagement,487,68,2014305.0,58,5733.0,29622.132352941175
+Hoeger Ltd Pharm,0,Low Engagement,487,69,2126943.0,59,5616.0,30825.260869565216
+Homenick-Larson,0,Low Engagement,487,64,3694668.0,57,8477.0,57729.1875
+Homenick-Larson Pharmaceutical Ltd,0,Low Engagement,487,74,2196282.0,60,5593.0,29679.486486486487
+Huel Inc Pharm,0,Low Engagement,487,68,2821198.0,62,5304.0,41488.205882352944
+Huels-Klein,0,Low Engagement,487,65,2640030.0,56,6958.0,40615.846153846156
+Huels-Klein Pharmaceutical Ltd,0,Low Engagement,487,63,2901091.0,59,6134.0,46049.06349206349
+Jacobs-Jones Pharma Plc,2,High Value At Risk,487,71,7213139.0,59,17505.0,101593.50704225352
+Jacobs-Jones Pharmaceutical Ltd,0,Low Engagement,487,68,2902097.0,60,6307.0,42677.89705882353
+Jakubowski Inc Pharma Plc,0,Low Engagement,487,78,3281644.0,57,8410.0,42072.35897435898
+Jakubowski Inc Pharmaceutical Limited,1,Loyal Active,31,226,4784385.0,149,9677.0,21169.84513274336
+Jakubowski Inc Pharmacy,2,High Value At Risk,487,60,10971559.0,53,18936.0,182859.31666666668
+Jast-Cruickshank Pharma Plc,1,Loyal Active,31,207,3665136.0,139,8529.0,17705.971014492752
+Jast-Cruickshank Pharmaceutical Ltd,0,Low Engagement,518,62,2206112.0,58,6058.0,35582.45161290323
+Jast-Cruickshank Pharmacy,0,Low Engagement,487,72,4366560.0,64,9762.0,60646.666666666664
+"Johns, Mueller and Nitzsche",0,Low Engagement,487,75,1464048.0,68,4457.0,19520.64
+"Johns, Mueller and Nitzsche Pharma Plc",0,Low Engagement,487,78,2392254.0,60,4800.0,30669.923076923078
+"Johnson, Friesen and Torphy Pharm",0,Low Engagement,487,65,1596257.0,56,3485.0,24557.8
+"Johnson, Friesen and Torphy Pharma Plc",1,Loyal Active,31,189,3226534.0,130,6930.0,17071.608465608464
+Keeling LLC Pharmaceutical Limited,0,Low Engagement,487,71,3090651.0,65,8268.0,43530.295774647886
+Keeling LLC Pharmacy,1,Loyal Active,31,184,4530078.0,128,8694.0,24619.989130434784
+"Kertzmann, Quitzon and Harris",2,High Value At Risk,487,60,5536062.0,55,11039.0,92267.7
+"Kertzmann, Quitzon and Harris Pharma Plc",1,Loyal Active,31,193,2819581.0,131,6338.0,14609.227979274612
+"Kertzmann, Quitzon and Harris Pharmaceutical Limited",0,Low Engagement,487,80,2975859.0,70,5514.0,37198.2375
+Kertzmann-Ward Pharma Plc,1,Loyal Active,31,197,3495786.0,145,8909.0,17745.10659898477
+Kertzmann-Ward Pharmaceutical Limited,0,Low Engagement,487,63,3664395.0,54,8029.0,58165.0
+Kihn Group,0,Low Engagement,487,82,3028264.0,69,7031.0,36930.04878048781
+Kihn Group Pharm,0,Low Engagement,487,77,2744199.0,68,5495.0,35638.94805194805
+Kihn Group Pharmaceutical Limited,0,Low Engagement,487,76,1764382.0,66,5087.0,23215.552631578947
+"Kilback, Beer and Batz",0,Low Engagement,487,62,1357337.0,59,3104.0,21892.532258064515
+"Kilback, Beer and Batz Pharma Plc",1,Loyal Active,31,204,5009905.0,137,10127.0,24558.357843137255
+"Kirlin, Hamill and Dickinson Pharma Plc",0,Low Engagement,487,76,1643894.0,69,4761.0,21630.184210526317
+"Kirlin, Hamill and Dickinson Pharmaceutical Limited",0,Low Engagement,487,58,1723882.0,50,5327.0,29722.103448275862
+Kling Inc,0,Low Engagement,487,79,2371041.0,66,6223.0,30013.177215189873
+Kling Inc Pharm,0,Low Engagement,487,61,1821020.0,51,3999.0,29852.786885245903
+Kling Inc Pharmaceutical Ltd,1,Loyal Active,31,203,4017753.0,137,8789.0,19791.886699507388
+"Koch, Borer and Hagenes",1,Loyal Active,31,206,2787706.0,141,8120.0,13532.553398058253
+"Koch, Borer and Hagenes Pharm",2,High Value At Risk,518,65,8868054.0,59,14147.0,136431.6
+"Koch, Borer and Hagenes Pharmaceutical Ltd",0,Low Engagement,487,73,3143065.0,61,6813.0,43055.68493150685
+Koch-Osinski Pharm,1,Loyal Active,31,185,2336644.0,134,6775.0,12630.508108108108
+Koch-Osinski Pharmaceutical Ltd,0,Low Engagement,487,76,4440512.0,69,7976.0,58427.78947368421
+Koch-Osinski Pharmacy,0,Low Engagement,487,74,4280220.0,64,10446.0,57840.81081081081
+"Koelpin, Luettgen and Abernathy Pharmaceutical Ltd",0,Low Engagement,487,85,2717021.0,70,8073.0,31964.95294117647
+"Koelpin, Luettgen and Abernathy Pharmacy",0,Low Engagement,487,76,4281160.0,67,10621.0,56331.05263157895
+Kohler-Bednar Pharm,0,Low Engagement,487,56,2579010.0,50,6708.0,46053.75
+Kohler-Bednar Pharmaceutical Ltd,2,High Value At Risk,487,79,7080368.0,69,14828.0,89624.91139240506
+Konopelski-Blick,0,Low Engagement,487,86,2929148.0,75,6568.0,34059.86046511628
+Konopelski-Blick Pharmaceutical Limited,0,Low Engagement,487,51,2662036.0,46,9190.0,52196.78431372549
+Koss Ltd Pharma Plc,0,Low Engagement,487,80,3405692.0,71,9005.0,42571.15
+Koss Ltd Pharmaceutical Limited,1,Loyal Active,31,202,6361234.0,140,13794.0,31491.257425742573
+Koss Ltd Pharmaceutical Ltd,0,Low Engagement,487,80,2783500.0,70,7220.0,34793.75
+Koss-Beier,1,Loyal Active,31,230,3560602.0,141,8114.0,15480.878260869566
+Koss-Beier Pharmaceutical Limited,0,Low Engagement,487,74,2415920.0,64,8692.0,32647.567567567567
+Koss-Beier Pharmacy,2,High Value At Risk,487,92,8464579.0,73,14006.0,92006.29347826086
+Kozey Ltd Pharma Plc,0,Low Engagement,487,68,1978241.0,59,5672.0,29091.779411764706
+Kozey Ltd Pharmaceutical Ltd,1,Loyal Active,31,202,3927833.0,130,9747.0,19444.71782178218
+Kozey Ltd Pharmacy,2,High Value At Risk,487,69,5615677.0,63,11201.0,81386.62318840579
+Kozey-Emmerich,2,High Value At Risk,487,72,7475483.0,61,24595.0,103826.15277777778
+Kozey-Emmerich Pharmacy,0,Low Engagement,487,66,1383623.0,60,3097.0,20963.984848484848
+Kozey-Schroeder,1,Loyal Active,31,211,2692556.0,147,6626.0,12760.928909952607
+Kozey-Schroeder Pharm,0,Low Engagement,487,65,1772317.0,57,4683.0,27266.415384615386
+Kozey-Schroeder Pharma Plc,0,Low Engagement,487,62,1602821.0,57,4413.0,25851.951612903227
+Kreiger Inc,0,Low Engagement,487,62,1881434.0,55,4011.0,30345.709677419356
+Kreiger Inc Pharm,2,High Value At Risk,487,71,8415733.0,62,17679.0,118531.45070422535
+Kreiger Inc Pharma Plc,1,Loyal Active,31,224,7063000.0,152,13809.0,31531.25
+Kris LLC Pharm,0,Low Engagement,487,84,1992556.0,75,9377.0,23720.904761904763
+Kris LLC Pharmaceutical Limited,0,Low Engagement,487,77,1473213.0,65,5264.0,19132.636363636364
+Kris LLC Pharmaceutical Ltd,0,Low Engagement,487,74,4118612.0,65,9240.0,55656.91891891892
+Kris LLC Pharmacy,2,High Value At Risk,487,72,5743157.0,62,9942.0,79766.06944444444
+"Kshlerin, Ryan and Leuschke",0,Low Engagement,487,94,2081341.0,77,5500.0,22141.925531914894
+"Kshlerin, Ryan and Leuschke Pharm",0,Low Engagement,487,72,4131655.0,63,10073.0,57384.09722222222
+"Kshlerin, Ryan and Leuschke Pharma Plc",1,Loyal Active,31,212,3293958.0,133,9433.0,15537.537735849057
+"Kub, Von and Herzog Pharmaceutical Limited",0,Low Engagement,487,70,1059343.0,61,4255.0,15133.471428571429
+"Kub, Von and Herzog Pharmaceutical Ltd",2,High Value At Risk,487,75,5539714.0,64,11065.0,73862.85333333333
+"Kub, Von and Herzog Pharmacy",1,Loyal Active,31,192,3602060.0,133,9070.0,18760.729166666668
+Kuhic LLC,0,Low Engagement,487,63,4859979.0,58,8847.0,77142.52380952382
+Kuhic LLC Pharma Plc,1,Loyal Active,31,189,2423879.0,125,7449.0,12824.756613756614
+Kuhic LLC Pharmaceutical Limited,0,Low Engagement,487,69,2599176.0,58,5581.0,37669.217391304344
+Kunze PLC Pharm,1,Loyal Active,31,214,3501226.0,143,9073.0,16360.869158878504
+Kunze PLC Pharma Plc,0,Low Engagement,487,63,1454366.0,58,4673.0,23085.174603174604
+"Kuphal, D'Amore and Bode Pharm",0,Low Engagement,487,71,2625509.0,60,6440.0,36979.0
+"Kuphal, D'Amore and Bode Pharmaceutical Ltd",1,Loyal Active,31,187,3400026.0,126,8918.0,18181.957219251337
+"Kuphal, D'Amore and Bode Pharmacy",0,Low Engagement,487,69,3703463.0,58,7840.0,53673.3768115942
+"Kuphal, Herzog and Purdy",2,High Value At Risk,487,82,16216781.0,69,25143.0,197765.6219512195
+"Kuphal, Herzog and Purdy Pharmaceutical Limited",0,Low Engagement,487,73,3311216.0,65,7755.0,45359.12328767123
+"Kutch, Daniel and Ortiz Pharm",0,Low Engagement,487,60,2616138.0,52,4824.0,43602.3
+Kutch-Marks Pharm,1,Loyal Active,31,191,3231751.0,138,8393.0,16920.16230366492
+Kutch-Marks Pharma Plc,2,High Value At Risk,487,86,6098931.0,70,26332.0,70917.80232558139
+Kutch-Marks Pharmaceutical Limited,0,Low Engagement,487,88,3590718.0,77,8169.0,40803.61363636364
+"Langworth, Olson and Satterfield Pharm",0,Low Engagement,487,69,3303881.0,61,6552.0,47882.333333333336
+"Langworth, Olson and Satterfield Pharmacy",2,High Value At Risk,487,69,4569125.0,64,13987.0,66219.20289855072
+Leannon-West,0,Low Engagement,487,67,2837092.0,60,6762.0,42344.65671641791
+Leannon-West Pharmaceutical Limited,2,High Value At Risk,487,67,11718583.0,59,18366.0,174904.223880597
+Leannon-West Pharmacy,1,Loyal Active,31,205,2559759.0,133,6701.0,12486.629268292683
+"Lebsack, Yost and Heller Pharma Plc",0,Low Engagement,487,63,2716981.0,56,6716.0,43126.68253968254
+"Lebsack, Yost and Heller Pharmaceutical Limited",1,Loyal Active,31,204,3206856.0,135,7344.0,15719.882352941177
+Leffler-Russel Pharm,1,Loyal Active,31,220,2379629.0,141,6618.0,10816.495454545455
+Leffler-Russel Pharmaceutical Limited,2,High Value At Risk,487,90,5520378.0,80,14381.0,61337.53333333333
+Leffler-Russel Pharmaceutical Ltd,0,Low Engagement,487,63,1362298.0,61,3249.0,21623.777777777777
+Legros-Runte Pharmaceutical Limited,0,Low Engagement,487,83,2436118.0,73,6466.0,29350.819277108432
+Legros-Runte Pharmaceutical Ltd,0,Low Engagement,487,80,1514264.0,70,3493.0,18928.3
+Lemke Ltd Pharm,1,Loyal Active,31,186,2345679.0,139,7478.0,12611.177419354839
+Lemke Ltd Pharma Plc,2,High Value At Risk,487,75,5107669.0,63,13753.0,68102.25333333333
+Lemke Ltd Pharmaceutical Limited,0,Low Engagement,487,79,4000316.0,66,10620.0,50636.91139240506
+Lesch PLC Pharma Plc,0,Low Engagement,487,75,3002845.0,64,7077.0,40037.933333333334
+Lesch PLC Pharmaceutical Ltd,1,Loyal Active,31,213,3107873.0,141,8494.0,14590.953051643193
+Lesch PLC Pharmacy,1,Loyal Active,31,189,3230884.0,136,7762.0,17094.624338624337
+Leuschke PLC Pharm,0,Low Engagement,487,66,2472153.0,53,5560.0,37456.86363636364
+Leuschke PLC Pharmaceutical Ltd,0,Low Engagement,487,80,3579557.0,69,7630.0,44744.4625
+Leuschke PLC Pharmacy,1,Loyal Active,31,185,5137740.0,139,9909.0,27771.567567567567
+"Leuschke, Waters and Schowalter Pharma Plc",0,Low Engagement,487,78,4482601.0,68,9204.0,57469.243589743586
+"Leuschke, Waters and Schowalter Pharmaceutical Ltd",1,Loyal Active,31,206,4129060.0,147,8610.0,20043.980582524273
+"Leuschke, Waters and Schowalter Pharmacy",0,Low Engagement,487,56,1319724.0,48,3280.0,23566.5
+Lindgren-Simonis Pharm,1,Loyal Active,31,211,4571771.0,142,9915.0,21667.16113744076
+Lindgren-Simonis Pharmacy,0,Low Engagement,487,87,4355033.0,74,11583.0,50057.85057471264
+Lockman Ltd,1,Loyal Active,31,202,2957683.0,140,9068.0,14641.99504950495
+Lockman Ltd Pharm,0,Low Engagement,487,74,2131469.0,64,4915.0,28803.635135135137
+Lockman Ltd Pharma Plc,0,Low Engagement,487,79,3559251.0,67,6737.0,45053.81012658228
+Lockman-Welch,0,Low Engagement,487,74,2251125.0,63,4569.0,30420.608108108107
+Lockman-Welch Pharm,1,Loyal Active,31,193,2837300.0,141,6993.0,14701.036269430051
+Lockman-Welch Pharmaceutical Limited,0,Low Engagement,487,64,1635084.0,52,3848.0,25548.1875
+Mann-Waelchi Pharm,1,Loyal Active,31,194,2728045.0,132,6306.0,14062.08762886598
+Mann-Waelchi Pharma Plc,0,Low Engagement,487,85,1919113.0,71,5755.0,22577.8
+Mann-Waelchi Pharmacy,0,Low Engagement,487,86,2745203.0,75,4917.0,31920.96511627907
+Mante-Grady Pharm,1,Loyal Active,31,214,3553977.0,147,9173.0,16607.369158878504
+Mante-Grady Pharma Plc,0,Low Engagement,487,75,4558292.0,64,10252.0,60777.22666666667
+Mante-Grady Pharmaceutical Ltd,0,Low Engagement,487,66,2224695.0,60,5308.0,33707.5
+Marquardt PLC,0,Low Engagement,487,69,3660786.0,61,8363.0,53054.86956521739
+Marquardt PLC Pharmaceutical Ltd,0,Low Engagement,487,65,1542487.0,59,4000.0,23730.56923076923
+Marquardt-Ryan Pharm,0,Low Engagement,487,84,1648236.0,73,4077.0,19621.85714285714
+Marquardt-Ryan Pharma Plc,2,High Value At Risk,487,84,5962611.0,71,10835.0,70983.46428571429
+Marquardt-Ryan Pharmaceutical Ltd,1,Loyal Active,31,175,3454170.0,127,7557.0,19738.114285714284
+Mayert-Weber,0,Low Engagement,487,56,2487533.0,50,8542.0,44420.232142857145
+Mayert-Weber Pharmaceutical Ltd,0,Low Engagement,487,76,4794748.0,68,9797.0,63088.78947368421
+"McClure, Zemlak and Dibbert Pharma Plc",1,Loyal Active,31,189,3536029.0,134,9554.0,18709.14814814815
+"McClure, Zemlak and Dibbert Pharmaceutical Limited",1,Loyal Active,31,213,2530886.0,144,7673.0,11882.093896713615
+"McClure, Zemlak and Dibbert Pharmacy",0,Low Engagement,487,66,1463442.0,62,4067.0,22173.363636363636
+McCullough LLC Pharma Plc,1,Loyal Active,31,206,3408632.0,146,8343.0,16546.757281553397
+McCullough LLC Pharmaceutical Limited,0,Low Engagement,487,82,2455147.0,67,6050.0,29940.817073170732
+McCullough LLC Pharmaceutical Ltd,0,Low Engagement,487,52,1439078.0,44,4483.0,27674.576923076922
+McDermott Group Pharmaceutical Ltd,0,Low Engagement,487,90,3812014.0,71,7430.0,42355.71111111111
+McDermott Group Pharmacy,0,Low Engagement,487,64,1321608.0,58,3520.0,20650.125
+McDermott Inc Pharma Plc,0,Low Engagement,487,79,1993892.0,70,5511.0,25239.13924050633
+McDermott Inc Pharmacy,0,Low Engagement,487,70,2213731.0,61,5144.0,31624.72857142857
+McKenzie-Zemlak Pharm,0,Low Engagement,487,80,4819780.0,64,10278.0,60247.25
+McKenzie-Zemlak Pharma Plc,0,Low Engagement,487,68,3087839.0,61,6407.0,45409.39705882353
+Medhurst-Beer,0,Low Engagement,487,73,3135941.0,66,12092.0,42958.09589041096
+Medhurst-Beer Pharm,0,Low Engagement,487,74,3312725.0,62,9139.0,44766.55405405405
+Medhurst-Beer Pharmaceutical Limited,1,Loyal Active,31,157,3694840.0,113,9368.0,23534.012738853504
+Miller-Satterfield Pharm,0,Low Engagement,487,69,990731.0,60,3046.0,14358.420289855072
+Miller-Satterfield Pharma Plc,1,Loyal Active,31,210,3091263.0,141,7025.0,14720.3
+Miller-Satterfield Pharmaceutical Limited,0,Low Engagement,487,85,3069293.0,71,7693.0,36109.32941176471
+Mills Inc Pharma Plc,1,Loyal Active,31,195,4170514.0,139,10681.0,21387.251282051282
+Mills Inc Pharmaceutical Ltd,0,Low Engagement,487,65,2565329.0,56,4425.0,39466.6
+Mills Inc Pharmacy,0,Low Engagement,487,67,3117576.0,60,5622.0,46530.985074626864
+"Moen, Murazik and Smith",1,Loyal Active,31,196,4581024.0,133,10687.0,23372.571428571428
+"Moen, Murazik and Smith Pharm",0,Low Engagement,487,65,3283859.0,58,6905.0,50520.907692307694
+"Moen, Murazik and Smith Pharmaceutical Ltd",2,High Value At Risk,487,76,4347888.0,69,19836.0,57209.05263157895
+Monahan Ltd,1,Loyal Active,31,191,2596736.0,128,7040.0,13595.476439790576
+Monahan Ltd Pharma Plc,0,Low Engagement,487,72,1703124.0,63,3683.0,23654.5
+Monahan Ltd Pharmaceutical Ltd,0,Low Engagement,487,72,2926791.0,62,14297.0,40649.875
+Moore PLC Pharm,0,Low Engagement,487,64,1292935.0,53,2704.0,20202.109375
+Moore PLC Pharmaceutical Ltd,1,Loyal Active,31,181,2513717.0,129,6425.0,13887.939226519336
+Mraz Group Pharma Plc,2,High Value At Risk,487,78,5280813.0,65,12673.0,67702.73076923077
+Mraz Group Pharmaceutical Limited,0,Low Engagement,487,81,2083646.0,72,5983.0,25724.024691358023
+Mraz Group Pharmacy,1,Loyal Active,31,212,3907690.0,140,8334.0,18432.5
+Mraz-Kutch Pharm,1,Loyal Active,31,199,2262808.0,128,5558.0,11370.89447236181
+Mraz-Kutch Pharma Plc,2,High Value At Risk,487,82,8616775.0,70,19157.0,105082.62195121951
+Mraz-Kutch Pharmacy,0,Low Engagement,487,81,2094419.0,69,5376.0,25857.024691358023
+Murray PLC,0,Low Engagement,487,78,2175901.0,66,5744.0,27896.166666666668
+Murray PLC Pharma Plc,2,High Value At Risk,487,94,7055424.0,79,16876.0,75057.70212765958
+Nader-Borer Pharm,0,Low Engagement,487,76,1405488.0,62,4049.0,18493.263157894737
+Nader-Borer Pharma Plc,1,Loyal Active,31,230,5079190.0,139,12727.0,22083.434782608696
+Nader-Borer Pharmaceutical Limited,0,Low Engagement,487,66,2523547.0,56,6459.0,38235.56060606061
+Nader-Gaylord Pharmaceutical Limited,1,Loyal Active,31,205,3707047.0,135,9570.0,18083.156097560975
+Nader-Gaylord Pharmaceutical Ltd,1,Loyal Active,31,229,6200373.0,148,14123.0,27075.86462882096
+Nader-Gaylord Pharmacy,0,Low Engagement,487,70,3919662.0,61,7818.0,55995.171428571426
+"Nitzsche, Effertz and Maggio",2,High Value At Risk,487,80,7680950.0,70,14668.0,96011.875
+"Nitzsche, Effertz and Maggio Pharmaceutical Limited",0,Low Engagement,487,81,3569498.0,64,8710.0,44067.87654320987
+"Nitzsche, Effertz and Maggio Pharmacy",1,Loyal Active,31,224,5223760.0,154,12739.0,23320.35714285714
+"Nolan, DuBuque and Schultz",0,Low Engagement,487,88,2323678.0,74,5469.0,26405.43181818182
+"Nolan, DuBuque and Schultz Pharm",1,Loyal Active,31,178,3343612.0,125,7441.0,18784.337078651686
+"Nolan, DuBuque and Schultz Pharmacy",0,Low Engagement,518,77,3892195.0,68,8256.0,50547.98701298701
+Okuneva-Corkery,1,Loyal Active,31,192,2095542.0,132,5651.0,10914.28125
+Okuneva-Corkery Pharm,0,Low Engagement,487,74,3558564.0,64,6736.0,48088.7027027027
+Okuneva-Corkery Pharma Plc,0,Low Engagement,487,65,768723.0,57,2566.0,11826.507692307692
+Ondricka Ltd,0,Low Engagement,487,65,1791589.0,55,5306.0,27562.907692307694
+Ondricka Ltd Pharmaceutical Ltd,0,Low Engagement,487,63,1194245.0,57,3701.0,18956.26984126984
+Ondricka Ltd Pharmacy,1,Loyal Active,31,187,4578864.0,126,9342.0,24485.903743315506
+"Ondricka, Rosenbaum and Beahan",1,Loyal Active,31,233,4642387.0,153,13251.0,19924.40772532189
+"Ondricka, Rosenbaum and Beahan Pharm",0,Low Engagement,487,61,2425022.0,54,6592.0,39754.45901639344
+Ondricka-Waters Pharmaceutical Limited,0,Low Engagement,487,74,2601978.0,66,6185.0,35161.86486486487
+Ondricka-Waters Pharmaceutical Ltd,0,Low Engagement,487,59,1004702.0,55,2477.0,17028.84745762712
+Osinski-Botsford Pharm,2,High Value At Risk,487,69,7850277.0,63,13717.0,113772.13043478261
+Osinski-Botsford Pharmacy,0,Low Engagement,487,58,1688343.0,53,7080.0,29109.362068965518
+Osinski-Collins,0,Low Engagement,487,71,1560371.0,64,3737.0,21977.056338028167
+Osinski-Collins Pharma Plc,0,Low Engagement,487,65,4603913.0,56,10043.0,70829.43076923076
+Osinski-Collins Pharmaceutical Ltd,1,Loyal Active,31,212,3884234.8,148,8814.2,18321.862264150943
+Parisian Ltd Pharm,1,Loyal Active,31,204,3381766.0,137,10942.0,16577.28431372549
+Parisian Ltd Pharma Plc,0,Low Engagement,487,83,3632199.0,68,6852.0,43761.43373493976
+Parisian Ltd Pharmacy,0,Low Engagement,487,57,1268970.0,50,4127.0,22262.63157894737
+"Parisian, Hagenes and Skiles Pharm",0,Low Engagement,487,74,2529100.0,65,4803.0,34177.02702702703
+"Parisian, Hagenes and Skiles Pharma Plc",1,Loyal Active,31,208,2946576.0,138,7086.0,14166.23076923077
+"Parisian, Hagenes and Skiles Pharmacy",0,Low Engagement,487,59,2223095.0,51,6278.0,37679.57627118644
+"Parker, Green and Emmerich Pharma Plc",0,Low Engagement,487,98,4942813.0,79,10620.0,50436.86734693877
+"Parker, Green and Emmerich Pharmacy",0,Low Engagement,487,82,4583551.0,70,10144.0,55896.96341463415
+Paucek PLC,0,Low Engagement,487,61,2884622.0,53,6421.0,47288.88524590164
+Paucek PLC Pharm,2,High Value At Risk,487,81,7319294.0,69,17709.0,90361.65432098765
+"Paucek, Keeling and Bruen Pharm",1,Loyal Active,31,190,2835262.0,125,6392.0,14922.431578947368
+"Paucek, Keeling and Bruen Pharma Plc",0,Low Engagement,487,82,2728741.0,73,7190.0,33277.329268292684
+"Paucek, Keeling and Bruen Pharmaceutical Limited",0,Low Engagement,487,69,3931236.0,64,8285.0,56974.434782608696
+Pfannerstill Group,0,Low Engagement,487,85,1623445.0,72,4790.0,19099.352941176472
+Pfannerstill Group Pharmaceutical Limited,0,Low Engagement,487,63,2527004.0,53,9233.0,40111.1746031746
+Pfannerstill Group Pharmaceutical Ltd,1,Loyal Active,31,180,2627854.0,130,6093.0,14599.18888888889
+"Pfannerstill, Upton and Balistreri Pharm",0,Low Engagement,487,72,1757793.0,66,4259.0,24413.791666666668
+"Pfannerstill, Upton and Balistreri Pharmacy",0,Low Engagement,487,59,2207753.0,49,5499.0,37419.542372881355
+Pfeffer-Hodkiewicz,0,Low Engagement,487,75,3850020.0,67,8588.0,51333.6
+Pfeffer-Hodkiewicz Pharm,0,Low Engagement,487,68,4666377.0,63,10641.0,68623.19117647059
+Pfeffer-Hodkiewicz Pharmaceutical Ltd,1,Loyal Active,31,211,1679772.0,145,4165.0,7961.004739336493
+Pfeffer-Kirlin Pharmaceutical Limited,0,Low Engagement,487,72,5008884.0,61,11040.0,69567.83333333333
+Pfeffer-Kirlin Pharmacy,0,Low Engagement,487,65,2234164.0,57,8193.0,34371.75384615385
+Powlowski-Buckridge,0,Low Engagement,487,69,2086832.0,60,5639.0,30243.942028985508
+Powlowski-Buckridge Pharma Plc,1,Loyal Active,31,205,4039277.0,144,8403.0,19703.79024390244
+Powlowski-Buckridge Pharmacy,0,Low Engagement,487,83,4221092.0,67,9153.0,50856.530120481926
+Predovic LLC Pharmaceutical Limited,0,Low Engagement,487,97,2678579.0,86,6074.0,27614.21649484536
+Predovic LLC Pharmaceutical Ltd,0,Low Engagement,487,71,2773088.0,63,6835.0,39057.57746478873
+"Prohaska, Bogisich and Gutkowski Pharm",0,Low Engagement,487,73,3744018.0,68,12269.0,51287.91780821918
+"Prohaska, Bogisich and Gutkowski Pharmaceutical Limited",0,Low Engagement,487,79,494766.0,67,3186.0,6262.860759493671
+Prohaska-Kuhic Pharma Plc,0,Low Engagement,487,85,3235037.0,67,9613.0,38059.25882352941
+Prohaska-Kuhic Pharmaceutical Limited,0,Low Engagement,487,67,1406039.0,57,4112.0,20985.65671641791
+Prohaska-Kuhic Pharmacy,1,Loyal Active,31,192,3101884.0,132,6795.0,16155.645833333334
+Purdy Ltd,0,Low Engagement,487,72,1623229.0,62,3485.0,22544.847222222223
+Purdy Ltd Pharm,0,Low Engagement,487,65,1930382.0,58,4626.0,29698.184615384616
+Purdy Ltd Pharmaceutical Limited,1,Loyal Active,31,190,5462556.0,128,13360.0,28750.294736842105
+Quigley-Heathcote Pharm,0,Low Engagement,487,55,1901612.0,49,5539.0,34574.763636363634
+Quigley-Heathcote Pharmaceutical Ltd,0,Low Engagement,487,88,2914496.0,72,7947.0,33119.27272727273
+Raynor LLC Pharm,0,Low Engagement,487,73,4385778.0,63,8241.0,60079.150684931505
+Raynor LLC Pharmaceutical Limited,0,Low Engagement,487,74,4913527.0,62,9966.0,66399.01351351352
+Raynor-Graham,2,High Value At Risk,487,85,19862313.0,71,40549.0,233674.2705882353
+Raynor-Graham Pharma Plc,0,Low Engagement,487,75,3294585.0,63,8437.0,43927.8
+Raynor-Graham Pharmaceutical Limited,1,Loyal Active,31,226,2624693.0,139,6255.0,11613.685840707965
+Reichel Inc,2,High Value At Risk,487,63,4644632.0,60,13880.0,73724.31746031746
+Reichel Inc Pharm,0,Low Engagement,487,79,2477151.0,72,6205.0,31356.3417721519
+Reilly Ltd,1,Loyal Active,31,186,3627565.0,130,8420.0,19503.037634408603
+Reilly Ltd Pharma Plc,0,Low Engagement,487,73,2230436.30669,62,4960.5512759,30553.922009452053
+Reilly Ltd Pharmacy,0,Low Engagement,487,77,3190236.0,72,8837.0,41431.63636363636
+Reinger Group Pharma Plc,0,Low Engagement,487,57,1773368.0,51,4576.0,31111.719298245614
+Reinger Group Pharmaceutical Limited,0,Low Engagement,487,70,2056461.0,62,4421.0,29378.014285714286
+"Reinger, Kihn and Goyette Pharma Plc",2,High Value At Risk,487,72,6432500.0,64,12187.0,89340.27777777778
+"Reinger, Kihn and Goyette Pharmaceutical Limited",0,Low Engagement,487,68,3843039.0,59,11615.0,56515.279411764706
+"Reynolds, Jast and Mante",0,Low Engagement,487,67,4068563.0,59,7803.0,60724.82089552239
+"Reynolds, Jast and Mante Pharm",0,Low Engagement,487,71,3201463.0,60,7015.0,45091.028169014084
+"Reynolds, Jast and Mante Pharma Plc",1,Loyal Active,31,182,2595109.0,128,7352.0,14258.84065934066
+Ritchie-Rodriguez Pharm,1,Loyal Active,31,210,4467582.0,145,8143.0,21274.2
+Ritchie-Rodriguez Pharmacy,0,Low Engagement,487,66,3314219.0,58,7787.0,50215.43939393939
+"Rodriguez, Stokes and Dickens",0,Low Engagement,487,78,3849886.0,69,8159.0,49357.51282051282
+"Rodriguez, Stokes and Dickens Pharma Plc",0,Low Engagement,487,89,2239793.0,70,8595.0,25166.213483146068
+Rogahn-Klein Pharm,0,Low Engagement,487,64,1937767.0,56,4651.0,30277.609375
+Rogahn-Klein Pharma Plc,0,Low Engagement,487,90,3908268.0,76,10668.0,43425.2
+Rogahn-Klein Pharmacy,1,Loyal Active,31,216,2311818.0,145,5971.0,10702.861111111111
+Rohan Inc,1,Loyal Active,31,208,3926971.0,140,10201.0,18879.66826923077
+Rohan Inc Pharm,0,Low Engagement,487,69,2168388.0,59,5256.0,31425.91304347826
+Rohan Inc Pharmaceutical Limited,0,Low Engagement,487,82,2227382.0,72,4844.0,27163.19512195122
+Rohan PLC Pharmaceutical Limited,1,Loyal Active,31,194,2521239.0,129,5476.0,12996.077319587628
+Rohan PLC Pharmacy,0,Low Engagement,487,71,4464290.0,59,8831.0,62877.32394366197
+Rohan and Sons Pharma Plc,2,High Value At Risk,487,78,7261608.0,62,17886.0,93097.53846153847
+Rohan and Sons Pharmaceutical Limited,0,Low Engagement,487,66,1467159.0,58,4230.0,22229.68181818182
+"Romaguera, Moen and Hagenes Pharm",0,Low Engagement,487,74,3974439.0,59,13183.0,53708.63513513513
+"Romaguera, Moen and Hagenes Pharmaceutical Limited",1,Loyal Active,31,188,3111337.0,132,8941.0,16549.66489361702
+"Romaguera, Moen and Hagenes Pharmacy",0,Low Engagement,487,85,2380903.0,67,6787.0,28010.623529411765
+Romaguera-Fay Pharmaceutical Limited,1,Loyal Active,31,199,3329758.0,140,10279.0,16732.45226130653
+Romaguera-Fay Pharmaceutical Ltd,2,High Value At Risk,487,77,7732463.0,66,14712.0,100421.5974025974
+Roob PLC,1,Loyal Active,31,189,4390668.0,132,8890.0,23231.04761904762
+Roob PLC Pharm,0,Low Engagement,487,82,2493464.0,72,5735.0,30408.09756097561
+Roob PLC Pharmaceutical Limited,0,Low Engagement,487,84,3885724.0,67,8879.0,46258.619047619046
+"Roob, Ernser and Kub Pharmaceutical Limited",1,Loyal Active,31,191,4206718.0,120,8640.0,22024.701570680627
+"Roob, Ernser and Kub Pharmaceutical Ltd",0,Low Engagement,487,59,1839910.0,50,5475.0,31184.915254237287
+"Roob, Ernser and Kub Pharmacy",0,Low Engagement,487,73,4657459.0,69,9432.0,63800.808219178085
+"Rosenbaum, Klein and Herzog",1,Loyal Active,31,195,2864547.0,142,6499.0,14689.984615384616
+"Rosenbaum, Klein and Herzog Pharma Plc",0,Low Engagement,487,63,2957515.0,56,6633.0,46944.68253968254
+"Rosenbaum, Klein and Herzog Pharmaceutical Ltd",0,Low Engagement,487,85,2767517.0,73,8456.0,32559.023529411767
+Rosenbaum-Tromp Pharm,0,Low Engagement,487,70,2058239.0,62,5549.0,29403.414285714287
+Rosenbaum-Tromp Pharmacy,0,Low Engagement,487,69,2988964.0,60,5310.0,43318.31884057971
+Rowe PLC,0,Low Engagement,487,73,1821714.0,65,4019.0,24954.986301369863
+Rowe PLC Pharm,0,Low Engagement,487,78,4637200.0,69,12446.0,59451.282051282054
+Rowe PLC Pharmaceutical Ltd,1,Loyal Active,31,204,2271736.0,137,6523.0,11135.960784313726
+"Runolfsson, Swaniawski and Jaskolski Pharmaceutical Limited",0,Low Engagement,487,67,3173621.0,58,6075.0,47367.477611940296
+"Runolfsson, Swaniawski and Jaskolski Pharmacy",1,Loyal Active,31,216,3043450.0,148,7633.0,14090.046296296296
+Runolfsson-Halvorson Pharm,0,Low Engagement,487,81,1660777.0,65,4653.0,20503.41975308642
+Runolfsson-Halvorson Pharmacy,0,Low Engagement,487,71,3238054.0,59,8754.0,45606.394366197186
+Runolfsson-Powlowski Pharmaceutical Limited,0,Low Engagement,487,72,4419404.0,62,9838.0,61380.61111111111
+Runolfsson-Powlowski Pharmacy,0,Low Engagement,487,68,2937914.0,60,5897.0,43204.617647058825
+Runte-Marquardt Pharm,0,Low Engagement,487,67,3896035.0,54,7681.0,58149.77611940299
+Runte-Marquardt Pharmaceutical Ltd,1,Loyal Active,31,201,3158566.0,133,7341.0,15714.25870646766
+Runte-Marquardt Pharmacy,0,Low Engagement,487,70,3853926.0,59,11786.0,55056.08571428571
+Rutherford and Sons,1,Loyal Active,31,209,4480098.0,142,9738.0,21435.875598086124
+Rutherford and Sons Pharm,2,High Value At Risk,487,88,8821254.0,67,21372.0,100241.52272727272
+Rutherford and Sons Pharmaceutical Ltd,0,Low Engagement,487,76,2009186.0,63,5178.0,26436.657894736843
+"Sanford, Franecki and Greenholt",1,Loyal Active,31,223,3070886.0,155,8962.0,13770.789237668161
+"Sanford, Franecki and Greenholt Pharma Plc",0,Low Engagement,487,63,2887900.0,55,7348.0,45839.68253968254
+"Sanford, Franecki and Greenholt Pharmaceutical Ltd",0,Low Engagement,487,51,2702917.0,45,6116.0,52998.37254901961
+Sauer and Sons,2,High Value At Risk,487,65,5233983.0,57,11982.0,80522.81538461539
+Sauer and Sons Pharmaceutical Limited,1,Loyal Active,31,208,2973298.0,133,8652.0,14294.701923076924
+Sauer and Sons Pharmacy,0,Low Engagement,487,59,2637965.0,50,6670.0,44711.27118644068
+Sauer-Herzog Pharmaceutical Limited,0,Low Engagement,487,81,1832229.0,71,5062.0,22620.11111111111
+Sauer-Herzog Pharmacy,0,Low Engagement,487,80,4066331.0,66,10317.0,50829.1375
+Schaden-Hirthe,0,Low Engagement,487,65,2307870.0,54,8578.0,35505.692307692305
+Schaden-Hirthe Pharmaceutical Ltd,1,Loyal Active,31,205,3352381.0,141,7666.0,16353.078048780488
+Schaefer Group,0,Low Engagement,487,74,2394397.0,60,7579.0,32356.716216216217
+Schaefer Group Pharmaceutical Limited,1,Loyal Active,31,209,2989447.0,130,8490.0,14303.574162679426
+Schaefer Group Pharmaceutical Ltd,0,Low Engagement,487,65,2199624.0,54,5319.0,33840.36923076923
+Schaefer LLC Pharma Plc,0,Low Engagement,487,68,4090060.0,60,8675.0,60147.94117647059
+Schaefer LLC Pharmacy,1,Loyal Active,31,189,2620098.0,127,6062.0,13862.952380952382
+Schaefer-Rolfson,1,Loyal Active,31,162,2631811.0,117,5635.0,16245.746913580248
+Schaefer-Rolfson Pharma Plc,0,Low Engagement,487,68,3025374.0,59,6931.0,44490.794117647056
+Schaefer-Rolfson Pharmacy,2,High Value At Risk,487,84,7005496.0,76,13580.0,83398.76190476191
+Schimmel-Waelchi Pharma Plc,0,Low Engagement,487,75,2163343.0,59,5462.0,28844.573333333334
+Schimmel-Waelchi Pharmaceutical Limited,0,Low Engagement,487,81,2944002.0,68,7802.0,36345.7037037037
+Schimmel-Waelchi Pharmaceutical Ltd,1,Loyal Active,31,210,2377130.0,143,7030.0,11319.666666666666
+"Schinner, Gaylord and Treutel Pharmaceutical Limited",0,Low Engagement,487,69,2207919.0,58,5843.0,31998.82608695652
+"Schinner, Gaylord and Treutel Pharmaceutical Ltd",1,Loyal Active,31,207,2690295.0,130,6608.0,12996.59420289855
+"Schinner, Gaylord and Treutel Pharmacy",0,Low Engagement,487,69,1372622.0,61,4891.0,19893.072463768116
+Schmitt LLC Pharm,1,Loyal Active,31,217,3341084.0,144,7900.0,15396.700460829494
+Schmitt LLC Pharma Plc,0,Low Engagement,487,57,2221381.0,54,6294.0,38971.59649122807
+"Schmitt, Berge and Haley Pharma Plc",1,Loyal Active,31,193,2384835.0,131,7362.0,12356.658031088084
+"Schmitt, Berge and Haley Pharmaceutical Ltd",0,Low Engagement,487,70,2537494.0,58,6541.0,36249.91428571429
+"Schowalter, Runolfsson and VonRueden Pharmaceutical Limited",0,Low Engagement,487,94,3812479.0,78,10590.0,40558.28723404255
+"Schowalter, Runolfsson and VonRueden Pharmaceutical Ltd",1,Loyal Active,31,220,4480859.0,134,11509.0,20367.54090909091
+Schulist LLC Pharmaceutical Limited,0,Low Engagement,487,75,3648932.0,68,8810.0,48652.426666666666
+Schulist-Zulauf,2,High Value At Risk,487,79,8732136.0,68,17203.0,110533.3670886076
+Schulist-Zulauf Pharm,1,Loyal Active,31,195,2726406.0,135,6555.0,13981.569230769232
+Schulist-Zulauf Pharmaceutical Ltd,0,Low Engagement,487,78,2335028.0,71,8805.0,29936.25641025641
+Schuppe Inc,0,Low Engagement,487,63,2376299.0,53,7230.0,37719.031746031746
+Schuppe Inc Pharm,0,Low Engagement,487,79,3905845.0,67,9802.0,49441.07594936709
+Senger-Kirlin Pharma Plc,2,High Value At Risk,487,78,5870797.0,68,13070.0,75266.6282051282
+Senger-Kirlin Pharmaceutical Ltd,0,Low Engagement,487,58,1003331.0,53,4589.0,17298.810344827587
+Senger-Kirlin Pharmacy,1,Loyal Active,31,211,2918224.0,134,6836.0,13830.445497630331
+Sipes and Sons Pharma Plc,0,Low Engagement,487,65,3203206.0,59,6352.0,49280.092307692306
+Sipes and Sons Pharmaceutical Limited,2,High Value At Risk,518,77,7560802.0,66,13728.0,98192.23376623377
+Skiles-McKenzie Pharmaceutical Limited,0,Low Engagement,487,58,2381718.0,51,5764.0,41064.10344827586
+Skiles-McKenzie Pharmacy,0,Low Engagement,487,67,4648392.0,58,9979.0,69378.98507462686
+Smith Inc Pharm,0,Low Engagement,487,51,2952915.0,47,5020.0,57900.294117647056
+Smith Inc Pharmacy,2,High Value At Risk,487,72,4641694.0,60,15953.0,64467.97222222222
+Spencer-Jerde Pharmaceutical Limited,0,Low Engagement,487,65,2010332.0,54,3959.0,30928.184615384616
+Spencer-Jerde Pharmacy,1,Loyal Active,31,210,3830684.0,138,8501.0,18241.35238095238
+"Spinka, Schowalter and Conn",0,Low Engagement,487,84,4408792.0,69,9809.0,52485.619047619046
+"Spinka, Schowalter and Conn Pharma Plc",0,Low Engagement,487,82,3562372.0,65,7405.0,43443.560975609755
+"Spinka, Schowalter and Conn Pharmaceutical Limited",1,Loyal Active,31,193,3752993.0,140,9497.0,19445.55958549223
+Stanton-Cole,1,Loyal Active,31,181,3577304.0,129,7179.0,19764.11049723757
+Stanton-Cole Pharma Plc,0,Low Engagement,487,86,3373381.0,78,7156.0,39225.36046511628
+Stanton-Cole Pharmacy,0,Low Engagement,487,84,2358861.0,75,7652.0,28081.678571428572
+Stehr-Champlin Pharmaceutical Limited,1,Loyal Active,31,220,2413607.0,142,5796.0,10970.940909090908
+Stehr-Champlin Pharmacy,0,Low Engagement,487,60,2091392.0,58,5774.0,34856.53333333333
+Steuber Ltd Pharm,0,Low Engagement,487,72,3024504.0,64,8566.0,42007.0
+Steuber Ltd Pharmaceutical Limited,0,Low Engagement,487,65,1772142.0,54,4908.0,27263.723076923077
+Steuber Ltd Pharmacy,1,Loyal Active,31,193,2676869.0,128,8481.0,13869.787564766839
+"Steuber, Hills and Botsford",0,Low Engagement,487,66,3504544.0,62,8236.0,53099.15151515151
+"Steuber, Hills and Botsford Pharma Plc",0,Low Engagement,487,67,2474952.0,56,7242.0,36939.58208955224
+"Steuber, Skiles and Kilback Pharma Plc",1,Loyal Active,31,209,4178267.0,141,11009.0,19991.708133971293
+"Steuber, Skiles and Kilback Pharmaceutical Limited",0,Low Engagement,487,61,2817677.0,56,7159.0,46191.42622950819
+"Steuber, Skiles and Kilback Pharmacy",0,Low Engagement,487,64,5093777.0,59,8946.0,79590.265625
+Streich PLC,0,Low Engagement,487,71,2488592.0,65,5639.0,35050.59154929577
+Streich PLC Pharm,0,Low Engagement,487,68,3039131.0,57,6133.0,44693.10294117647
+Streich PLC Pharmaceutical Limited,1,Loyal Active,31,214,5287741.0,141,10166.0,24709.070093457944
+Terry-Kub Pharma Plc,0,Low Engagement,487,77,2863566.0,63,6118.0,37189.168831168834
+Terry-Kub Pharmaceutical Ltd,0,Low Engagement,487,80,3955360.0,67,11385.0,49442.0
+Tillman Group Pharma Plc,0,Low Engagement,487,68,4257176.0,55,9101.0,62605.529411764706
+Tillman Group Pharmaceutical Limited,0,Low Engagement,487,70,1929174.0,60,5867.0,27559.628571428573
+Torp-Fisher,2,High Value At Risk,487,72,14504357.0,57,27745.0,201449.40277777778
+Torp-Fisher Pharma Plc,1,Loyal Active,31,221,4160580.0,144,8597.0,18826.153846153848
+"Torphy, Pfeffer and Jakubowski Pharm",0,Low Engagement,487,92,2887536.0,72,6729.0,31386.260869565216
+"Torphy, Pfeffer and Jakubowski Pharmaceutical Ltd",0,Low Engagement,487,67,2777964.0,55,6715.0,41462.149253731346
+"Towne, Cummerata and Blanda Pharm",1,Loyal Active,31,177,4477560.0,137,10333.0,25296.949152542373
+"Towne, Cummerata and Blanda Pharmaceutical Limited",0,Low Engagement,487,62,1945887.0,54,4305.0,31385.274193548386
+"Towne, Cummerata and Blanda Pharmaceutical Ltd",0,Low Engagement,487,75,3792571.0,68,11661.0,50567.613333333335
+Trantow LLC Pharm,0,Low Engagement,487,86,2617066.0,77,6726.0,30431.0
+Trantow LLC Pharma Plc,1,Loyal Active,31,183,3768587.0,127,7919.0,20593.371584699453
+Trantow LLC Pharmacy,2,High Value At Risk,487,64,4884156.0,58,12822.0,76314.9375
+Turner Ltd,0,Low Engagement,487,74,2071427.0,68,4505.0,27992.256756756757
+Turner Ltd Pharmacy,0,Low Engagement,487,66,1735877.0,61,3924.0,26301.166666666668
+Upton PLC Pharma Plc,0,Low Engagement,487,67,2173091.0,59,7362.0,32434.194029850747
+Upton PLC Pharmaceutical Limited,0,Low Engagement,487,63,1201556.0,53,4148.0,19072.31746031746
+"Upton, Abernathy and Goodwin Pharm",2,High Value At Risk,487,84,5591559.0,69,14992.0,66566.17857142857
+"Upton, Abernathy and Goodwin Pharmaceutical Limited",0,Low Engagement,487,65,1052585.0,58,2696.0,16193.615384615385
+"Upton, Abernathy and Goodwin Pharmaceutical Ltd",1,Loyal Active,31,217,2971636.0,144,7651.0,13694.175115207374
+Vandervort LLC Pharm,0,Low Engagement,487,62,1579750.0,55,4704.0,25479.83870967742
+Vandervort LLC Pharma Plc,1,Loyal Active,31,212,4184133.0,149,9249.0,19736.47641509434
+Vandervort LLC Pharmaceutical Ltd,0,Low Engagement,487,74,3350101.0,62,12543.0,45271.63513513513
+Veum and Sons Pharmaceutical Limited,2,High Value At Risk,487,74,8373012.0,65,14607.0,113148.81081081081
+Veum and Sons Pharmaceutical Ltd,0,Low Engagement,487,77,3633461.0,67,8176.0,47187.805194805194
+Veum-Kerluke Pharma Plc,0,Low Engagement,487,90,3228658.0,70,8832.0,35873.97777777778
+Veum-Kerluke Pharmacy,1,Loyal Active,31,186,2832805.0,133,7469.0,15230.13440860215
+VonRueden-Adams Pharm,0,Low Engagement,487,57,1488478.0,51,5558.0,26113.64912280702
+VonRueden-Adams Pharmaceutical Limited,0,Low Engagement,487,93,1732466.0,78,4924.0,18628.666666666668
+Waelchi LLC Pharm,0,Low Engagement,487,79,3204614.0,69,8939.0,40564.73417721519
+Waelchi LLC Pharmaceutical Limited,0,Low Engagement,487,73,3327507.0,66,7195.0,45582.28767123288
+Waelchi LLC Pharmacy,1,Loyal Active,31,203,3168766.0,133,11960.0,15609.68472906404
+Walsh-Brown Pharma Plc,0,Low Engagement,487,71,3678304.0,62,6509.0,51807.09859154929
+Walsh-Brown Pharmaceutical Ltd,0,Low Engagement,487,88,5107415.0,74,9866.0,58038.806818181816
+Walsh-Brown Pharmacy,1,Loyal Active,31,198,4516298.0,131,8759.0,22809.58585858586
+Walter Ltd,1,Loyal Active,31,191,2232664.0,134,6420.0,11689.340314136125
+Walter Ltd Pharmaceutical Limited,0,Low Engagement,487,75,2626486.0,63,7662.0,35019.81333333333
+Ward Group Pharm,0,Low Engagement,487,100,2239879.0,85,6232.0,22398.79
+Ward Group Pharma Plc,0,Low Engagement,487,71,3849955.0,64,8260.0,54224.718309859156
+Ward Group Pharmaceutical Limited,1,Loyal Active,31,186,4787357.0,128,9657.0,25738.478494623654
+"Watsica, Larson and Labadie Pharma Plc",0,Low Engagement,487,65,2462657.0,55,7112.0,37887.03076923077
+"Watsica, Larson and Labadie Pharmaceutical Ltd",0,Low Engagement,487,76,2506405.0,61,6092.0,32979.01315789474
+Watsica-Kovacek Pharmaceutical Ltd,2,High Value At Risk,487,64,6810378.0,56,13332.0,106412.15625
+Watsica-Kovacek Pharmacy,0,Low Engagement,487,70,3144280.0,60,11098.0,44918.28571428572
+Weber Ltd Pharmaceutical Ltd,0,Low Engagement,487,75,2120623.0,60,6840.0,28274.97333333333
+Weber Ltd Pharmacy,0,Low Engagement,487,90,2632522.0,74,6388.0,29250.244444444445
+Wehner-Stehr,0,Low Engagement,487,62,2558610.0,54,5118.0,41267.903225806454
+Wehner-Stehr Pharm,0,Low Engagement,487,87,2430740.0,74,7122.0,27939.540229885057
+Welch-Langworth,1,Loyal Active,31,198,2674619.0,144,7562.0,13508.176767676769
+Welch-Langworth Pharm,0,Low Engagement,518,60,2214052.0,52,4581.0,36900.86666666667
+Welch-Orn,1,Loyal Active,31,189,4375067.0,125,11353.0,23148.502645502645
+Welch-Orn Pharm,0,Low Engagement,487,83,3980072.0,70,12324.0,47952.67469879518
+Welch-Orn Pharmacy,0,Low Engagement,487,89,2435373.0,78,4996.0,27363.74157303371
+West Group Pharm,0,Low Engagement,487,73,3285793.0,60,7017.0,45010.86301369863
+West Group Pharma Plc,0,Low Engagement,487,87,2838786.0,77,6642.0,32629.724137931036
+West Group Pharmacy,1,Loyal Active,31,191,2260025.0,132,4908.0,11832.59162303665
+White Inc Pharm,0,Low Engagement,487,75,4497997.0,63,10375.0,59973.293333333335
+White Inc Pharmacy,0,Low Engagement,487,63,2328761.0,50,6888.0,36964.46031746032
+"Wiegand, Jast and Yost",0,Low Engagement,487,61,2761844.0,57,5342.0,45276.13114754098
+"Wiegand, Jast and Yost Pharma Plc",1,Loyal Active,31,164,1796446.0,116,5210.0,10953.939024390244
+"Wiegand, Jast and Yost Pharmaceutical Ltd",0,Low Engagement,487,72,2677402.0,62,6457.0,37186.13888888889
+Will and Sons Pharma Plc,1,Loyal Active,31,200,2547983.0,141,6963.0,12739.915
+Will and Sons Pharmaceutical Limited,1,Loyal Active,31,191,3773857.0,134,10250.0,19758.413612565444
+Will and Sons Pharmacy,0,Low Engagement,487,74,2534498.0,60,8954.0,34249.97297297297
+"Will, McGlynn and Fritsch Pharmaceutical Limited",0,Low Engagement,487,77,2088053.0,65,5389.0,27117.571428571428
+"Will, McGlynn and Fritsch Pharmaceutical Ltd",0,Low Engagement,487,83,3822863.0,69,8798.0,46058.590361445786
+"Wintheiser, Breitenberg and Gottlieb",0,Low Engagement,487,81,2486363.0,68,4562.0,30695.83950617284
+"Wintheiser, Breitenberg and Gottlieb Pharma Plc",0,Low Engagement,487,66,1282335.0,53,4129.0,19429.31818181818
+"Wintheiser, Breitenberg and Gottlieb Pharmaceutical Limited",1,Loyal Active,31,191,4176930.0,127,8807.0,21868.74345549738
+"Wisozk, Brekke and Bartoletti",0,Low Engagement,487,76,3027885.0,64,8674.0,39840.59210526316
+"Wisozk, Brekke and Bartoletti Pharmacy",0,Low Engagement,487,79,2004893.0,71,4823.0,25378.392405063292
+Wolff Group,0,Low Engagement,487,78,3110230.0,68,11595.0,39874.743589743586
+Wolff Group Pharm,1,Loyal Active,31,202,2712648.0,132,6970.0,13428.950495049505
+Wolff Group Pharmaceutical Ltd,0,Low Engagement,487,64,1318208.0,55,3235.0,20597.0
+"Wuckert, Kreiger and Howell",0,Low Engagement,487,83,4971179.0,70,11711.0,59893.72289156626
+"Wuckert, Kreiger and Howell Pharma Plc",2,High Value At Risk,487,88,10413338.0,75,18748.0,118333.38636363637
+"Wunsch, Mills and Walter",1,Loyal Active,31,206,2757470.0,129,6969.0,13385.776699029126
+"Wunsch, Mills and Walter Pharm",0,Low Engagement,487,69,2212016.0,57,9056.0,32058.202898550724
+"Wunsch, Mills and Walter Pharmaceutical Limited",0,Low Engagement,487,79,4227413.0,72,10694.0,53511.556962025315
+"Yundt, Leuschke and Ward",0,Low Engagement,487,78,2264713.0,67,5653.0,29034.78205128205
+"Yundt, Leuschke and Ward Pharma Plc",0,Low Engagement,487,65,1843556.0,56,6209.0,28362.4
+"Yundt, Leuschke and Ward Pharmaceutical Ltd",1,Loyal Active,31,202,3029636.0,142,6990.0,14998.198019801981
+Yundt-Crona Pharm,0,Low Engagement,487,76,1857283.0,67,4732.0,24437.934210526317
+Yundt-Crona Pharmaceutical Ltd,1,Loyal Active,31,210,2667767.0,144,6032.0,12703.65238095238
+Zemlak Group Pharm,0,Low Engagement,487,67,3235278.0,57,7136.0,48287.73134328358
+Zemlak Group Pharmaceutical Limited,1,Loyal Active,31,222,2228898.0,148,6638.0,10040.081081081082
+Zemlak Group Pharmacy,0,Low Engagement,487,74,2300251.0,60,6328.0,31084.472972972973
+Zemlak-Witting,0,Low Engagement,487,74,3408206.0,64,7218.0,46056.83783783784
+Zemlak-Witting Pharmaceutical Limited,0,Low Engagement,487,72,1508433.0,63,4362.0,20950.458333333332
+Zemlak-Witting Pharmacy,1,Loyal Active,31,213,3125023.0,134,7615.0,14671.469483568075
+"Zieme, Doyle and Kunze",1,Loyal Active,31,196,2726368.0,138,7253.0,13910.040816326531
+"Zieme, Doyle and Kunze Pharm",0,Low Engagement,487,69,4261735.0,63,9257.0,61764.27536231884
+"Zieme, Doyle and Kunze Pharmacy",0,Low Engagement,487,67,1933882.0,60,5261.0,28863.910447761195

@@ -1,0 +1,4 @@
+Cluster,Segment,Customers,Avg_Recency_Days,Avg_Frequency,Avg_Monetary_Value,Avg_Product_Diversity,Avg_Total_Quantity,Avg_Order_Value
+0,Low Engagement,482,487.45,72.33,2748942.63,62.43,6886.96,38079.69
+1,Loyal Active,200,31.0,202.42,3404379.71,136.58,8371.62,16815.33
+2,High Value At Risk,69,488.35,76.86,7310908.17,65.67,16218.2,95489.97

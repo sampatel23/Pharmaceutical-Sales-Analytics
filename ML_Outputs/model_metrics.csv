@@ -1,0 +1,8 @@
+Metric,Value
+Number of Customers,751.0
+Number of Features,6.0
+Optimal K,3.0
+Silhouette Score,0.6599
+Low Engagement Customers,482.0
+Loyal Active Customers,200.0
+High Value At Risk Customers,69.0
